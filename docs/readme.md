@@ -1,3 +1,3 @@
 # References and Documentation
 
-includes: all support docs and reference materials.
+includes: all supporting documents and reference materials.
