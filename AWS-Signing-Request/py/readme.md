@@ -14,14 +14,48 @@ Use this python script to make a get request to the License Validatoin API. Scri
 
 ## Installation
 
-'''
+```
 
-pip request
+ pip requests
 
-'''
+```
 
 ## Usage
 
-'''
-$ python 
-'''
+```
+
+ python awsSigning.py
+ 
+```
+
+## Code modifications
+
+Edit this code segment to modify the request and include the API key:
+
+```
+
+# ************* REQUEST VALUES *************
+request_id = '<Enter License Number>'
+method = 'GET'
+service = 'execute-api'
+host = '4bqnosml1f.execute-api.us-east-1.amazonaws.com'
+region = 'us-east-1'
+endpoint = 'https://4bqnosml1f.execute-api.us-east-1.amazonaws.com/alpha/v1/licenses/'+request_id
+request_parameters = ''
+apikey = '<Enter API Key>'
+ 
+```
+
+Edit this code segment to include your AWS credentials (Best practices would be to use enviroment variable for the access key and secret key):
+
+```
+
+# Read AWS access key from env. variables or configuration file. Best practice is NOT
+# to embed credentials in code.
+access_key = os.environ.get('AWS_ACCESS_KEY_ID')
+secret_key = os.environ.get('AWS_SECRET_ACCESS_KEY')
+
+ 
+```
+
+
