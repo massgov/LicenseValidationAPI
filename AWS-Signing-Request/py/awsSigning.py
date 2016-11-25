@@ -6,15 +6,31 @@
 import sys, os, base64, datetime, hashlib, hmac
 import requests # pip install requests
 
+
 # ************* REQUEST VALUES *************
 request_id = '<Enter License Number>'
+# request_id = '9999'
+
 method = 'GET'
+
 service = 'execute-api'
-host = '4bqnosml1f.execute-api.us-east-1.amazonaws.com'
+
 region = 'us-east-1'
-endpoint = 'https://4bqnosml1f.execute-api.us-east-1.amazonaws.com/alpha/v1/licenses/'+request_id
+
+host = '<Enter AWS service endpoint> '
+# ie:  host = 'AWS_REST-API-ID.execute-api.us-east-1.amazonaws.com'
+
+uri='<Enter resource identification structure>'+request_id
+# ie: uri='/alpha/v1/licenses/9999
+
+endpoint = 'https://' + host + uri
+# ie: endpoint = 'https://AWS_REST-API-ID.execute-api.us-east-1.amazonaws.com/alpha/v1/licenses/9999
+
 request_parameters = ''
-apikey = '<Enter API Key>'
+# enter query parameters (if any)
+
+apikey = '< Enter API Key> '
+# ie apikey = '9999999999999999'
 
 # Read AWS access key from env. variables or configuration file. Best practice is NOT
 # to embed credentials in code.
@@ -53,7 +69,7 @@ datestamp = t.strftime('%Y%m%d') # Date w/o time, used in credential scope
 
 # Step 2: Create canonical URI--the part of the URI from domain to query
 # string (use '/' if no path)
-canonical_uri = '/alpha/v1/licenses/'+request_id
+canonical_uri = uri
 
 # Step 3: Create the canonical query string. In this example (a GET request),
 # request parameters are in the query string. Query string values must
