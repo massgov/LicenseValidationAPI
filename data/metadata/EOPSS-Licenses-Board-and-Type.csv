@@ -1,0 +1,149 @@
+Profession ID,Profession Name,License Code,License Name,License Niumber Prefix 
+10,Engineering Licenses,1010,Engineer 1st Class ,EN1E
+10,Engineering Licenses,1020,Engineer 2nd Class ,EN2E
+10,Engineering Licenses,1030,Engineer 3rd Class ,EN3E
+10,Engineering Licenses,1040,Fireman 1st Class,FM1F
+10,Engineering Licenses,1050,Fireman 2nd Class ,FM2F
+10,Engineering Licenses,1060,HE-HA- Hoisting Engineer Apprentice,HE
+10,Engineering Licenses,1065,Hoisting Compact Machinery Rental ,HERC
+10,Engineering Licenses,1066,Hoisting Continuing Education Facility,HECE
+10,Engineering Licenses,1067,Hoisting In-Service Training Program,HEIP
+10,Engineering Licenses,1070,Hoisting Engineer,HE
+10,Engineering Licenses,1071,Nuclear Power Plant Asst. Operator,NA
+10,Engineering Licenses,1072,Nuclear Power Plant Operator ,NE
+10,Engineering Licenses,1073,Nuclear Power Plant Sr. Engineer,NS
+10,Engineering Licenses,1074,Pipefitter Apprentice,PA
+10,Engineering Licenses,1075,Pipefitter Journeyman PHCP-W,PJ
+10,Engineering Licenses,1076,Pipefitter Master PHCP-W,PM
+10,Engineering Licenses,1077,Refrigeration Apprentice,RA
+10,Engineering Licenses,1078,Refrigeration Contractor,RC
+10,Engineering Licenses,1079,Refrigeration Technician,RT
+10,Engineering Licenses,1080,Sprinkler Apprentice ,SA
+10,Engineering Licenses,1081,Sprinkler Contractor,SC
+10,Engineering Licenses,1082,Sprinkler Journeyman ,SJ
+10,Engineering Licenses,1083,Engineer Special To Have Charge,ENSC
+10,Engineering Licenses,1084,Engineer Special To Operate,ENSO
+10,Engineering Licenses,1085,Oil Burner Apprentice Certificate,OA
+10,Engineering Licenses,1085,Oil Burner Apprentice Certificate,AO
+10,Engineering Licenses,1086,Inspector of Pressure Vessels,BI
+10,Engineering Licenses,1087,Oil Burner Technician Certificate,BU
+10,Engineering Licenses,1091,Carriage Horse Driver,HD
+10,Engineering Licenses,1094,Recreational Tramway Certificate,TC
+11,Elevators Licenses,1101,Elevator Mechanic,EM
+11,Elevators Licenses,1102,Elevator Operator,EO
+11,Elevators Licenses,1110,Elevator Contractor,EC
+12,Building Licenses,1201,CSSL-MA - Masonry,CSSL
+12,Building Licenses,1202,CSSL-RF - Roofing,CSSL
+12,Building Licenses,1203,CSSL-WS - Windows and Siding,CSSL
+12,Building Licenses,1204,CSSL-SF - Solid Fuel Burning Device,CSSL
+12,Building Licenses,1205,CSSL-IC - Insulation Contractor,CSSL
+12,Building Licenses,1206,CSSL-DM - Demolition,CSSL
+14,Amusement Licenses,1402,Amusement Device Inspector for Insurance,AI
+14,Amusement Licenses,1403,Amusement Certified Maintenance Mechanic,CM
+14,Amusement Licenses,1405,Challenge Course/Climbing Wall Inspector,CCCW
+10,Engineering Licenses,10000,HE-1A- Derricks/ Lattice Cranes,HE
+10,Engineering Licenses,10001,HE-1B-Telescoping Boom w/Cables Cranes,HE
+10,Engineering Licenses,10002,HE-1C-Telescoping Booms w/o Cables,HE
+10,Engineering Licenses,10003,HE-2A- Excavators,HE
+10,Engineering Licenses,10004,HE-2B- Front End Loader/Backhoes,HE
+10,Engineering Licenses,10005,HE-2C-Front End Loaders/Uniloaders,HE
+10,Engineering Licenses,10006,HE-3A- Air or Electric Powered,HE
+10,Engineering Licenses,10007,4A repealed now 4B 4C 4D 4E 4F 4G ,HE
+10,Engineering Licenses,10008,HE-4B- Drill Rigs,HE
+10,Engineering Licenses,10009,HE-4C- Pipeline Side Booms,HE
+10,Engineering Licenses,10010,HE-4D- Concrete Pumps,HE
+10,Engineering Licenses,10011,HE-4E- Catch Basin Cleaner,HE
+10,Engineering Licenses,10012,HE-4F- Sign Hanging Equipment,HE
+10,Engineering Licenses,10013,HE-4G- Specialty Lawn Mower,HE
+10,Engineering Licenses,10014,ENSC-05-HRT,ENSC
+10,Engineering Licenses,10015,ENSC-06-Scotch,ENSC
+10,Engineering Licenses,10016,"ENSO-07-VFT VT, VRT",ENSO
+10,Engineering Licenses,10017,"ENSC-07-VRT VT, VRT",ENSC
+10,Engineering Licenses,10018,ENSC-08-Water Tube,ENSC
+10,Engineering Licenses,10019,HE-1D- General Ind. Warehouse Fork Lifts,HE
+10,Engineering Licenses,10020,HE-2D- Compact Hoisting Machinery,HE
+10,Engineering Licenses,10021,HE-ML- Municipal Limited,HE
+10,Engineering Licenses,10050,ENSO-05-HRT,ENSO
+10,Engineering Licenses,10051,ENSO-06-Scotch,ENSO
+10,Engineering Licenses,10053,ENSO-08-Water Tube,ENSO
+10,Engineering Licenses,10054,ENSC-09-Coil Boilers,ENSC
+10,Engineering Licenses,10055,ENSC-10-Electric Boilers,ENSC
+10,Engineering Licenses,10056,ENSO-09-Coil Boilers,ENSO
+10,Engineering Licenses,10057,ENSO-10-Electric Boilers,ENSO
+10,Engineering Licenses,10070,TC-TI-Tramway Inspector,TC
+10,Engineering Licenses,10071,TC-WS-Wire Rope Splicer,TC
+10,Engineering Licenses,10072,TC-WI-Wire Rope Inspector,TC
+10,Engineering Licenses,10073,TC-ND-Non Destructive Testing Examiner,TC
+10,Engineering Licenses,10740,Pipefitter Unrestricted Apprentice,PAU
+10,Engineering Licenses,10750,Pipefitter Unrestricted Journeyman,PJU
+10,Engineering Licenses,10752,NULL,PJ
+10,Engineering Licenses,10754,Pipefitter Journeyman PHCP,PJ
+10,Engineering Licenses,10755,Pipefitter Journeyman PP,PJ
+10,Engineering Licenses,10756,Pipefitter Journeyman PP-W,PJ
+10,Engineering Licenses,10760,Pipefitter Unrestricted Master,PMU
+10,Engineering Licenses,10762,NULL,PM
+10,Engineering Licenses,10764,Pipefitter Master PHCP,PM
+10,Engineering Licenses,10765,Pipefitter Master PP,PM
+10,Engineering Licenses,10766,Pipefitter Master PP-W,PM
+12,Building Licenses,12001,Construction Supervisor,CS
+12,Building Licenses,12004,Motion Picture Operator ,MP
+12,Building Licenses,12009,Building Official Certification,BO
+12,Building Licenses,12011,Construction Supervisor 1 & 2 Family,CSFA
+12,Building Licenses,12012,Construction Supervisor Specialty,CSSL
+12,Building Licenses,12019,Building Official CE Provider,CS
+12,Building Licenses,12020,CSL CE Course Coordinator,CS
+12,Building Licenses,12020,CSL CE Course Coordinator,CSL
+13,Regulated-Activity,13001,Security Systems - Cert. of Clearance,SSCC
+13,Regulated-Activity,13001,Security Systems - Cert. of Clearance,CC
+13,Regulated-Activity,13002,Security Systems - S-License,SSCO
+13,Regulated-Activity,13002,Security Systems - S-License,SS
+13,Regulated-Activity,13003,Ticket Resellers,TR
+13,Regulated-Activity,13004,Public Warehousemen,WH
+13,Regulated-Activity,13004,Public Warehousemen,PW
+13,Regulated-Activity,13005,Theatrical Booking Agency,TB
+13,Regulated-Activity,13007,Boxing Matchmaker,BXMM
+13,Regulated-Activity,13008,Boxing Professional,BXPB
+13,Regulated-Activity,13009,Boxing Trainer,BXTR
+13,Regulated-Activity,13010,Ringside Physician,MADR
+13,Regulated-Activity,13010,Ringside Physician,BXDR
+13,Regulated-Activity,13010,Ringside Physician,PHYS
+13,Regulated-Activity,13011,Boxing Judge,BXJD
+13,Regulated-Activity,13012,Boxing Manager,BXMG
+13,Regulated-Activity,13013,Boxing Promoter,BXPR
+13,Regulated-Activity,13014,Boxing Referee,BXRF
+13,Regulated-Activity,13015,Boxing Second,BXSC
+13,Regulated-Activity,13016,Boxing Timekeeper,BXTK
+13,Regulated-Activity,13017,MMA Matchmaker,MAMM
+13,Regulated-Activity,13018,MMA Professional,MAAB
+13,Regulated-Activity,13018,MMA Professional,MAPB
+13,Regulated-Activity,13019,MMA Trainer,MATR
+13,Regulated-Activity,13021,MMA Judge,MAJD
+13,Regulated-Activity,13022,MMA Manager,MAMG
+13,Regulated-Activity,13023,MMA Promoter,MAPR
+13,Regulated-Activity,13024,MMA Referee,MARF
+13,Regulated-Activity,13025,MMA Second,BXSC
+13,Regulated-Activity,13025,MMA Second,MASC
+13,Regulated-Activity,13026,MMA Timekeeper,MATK
+13,Regulated-Activity,13027,Kickboxing Professional,KBPB
+13,Regulated-Activity,13028,MMA Amatuer,MAAB
+13,Regulated-Activity,13029,Amateur Boxing Referee,ABREF
+13,Regulated-Activity,13030,Amateur Boxing Judge,ABJUD
+13,Regulated-Activity,13032,Amateur Boxing Timekeeper,ABTIME
+13,Regulated-Activity,13033,Federal ID,MA
+13,Regulated-Activity,13033,Federal ID,NULL
+13,Regulated-Activity,13034,Kickboxing Promoter,KBPR
+13,Regulated-Activity,13035,Kickboxing Amateur,KBAB
+13,Regulated-Activity,13036,Kickboxing Judge,KBJD
+13,Regulated-Activity,13037,Kickboxing Manager,KBMG
+13,Regulated-Activity,13038,Kickboxing Matchmaker,KBMM
+13,Regulated-Activity,13039,Kickboxing Referee,KBRF
+13,Regulated-Activity,13040,Kickboxing Second,KBSC
+13,Regulated-Activity,13041,Kickboxing Timekeeper,KBTK
+13,Regulated-Activity,13042,Kickboxing Trainer,KBTR
+13,Regulated-Activity,13043,Ringside Scorer,RSSC
+14,Amusement Licenses,14001,CM-Unlimited,CM
+14,Amusement Licenses,14002,CM-Inflatables Only,CM
+14,Amusement Licenses,14003,CM-Carousel Only,CM
+14,Amusement Licenses,14004,CM-Mobile Rock Walls Only,CM
+14,Amusement Licenses,14005,CM-Challenge Course/ Permanent Rock Wall,CM
+14,Amusement Licenses,14006,CM-Limited Specialty,CM

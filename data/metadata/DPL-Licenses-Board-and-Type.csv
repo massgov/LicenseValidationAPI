@@ -1,0 +1,226 @@
+BOARD,BOARD Desc,Board Code,TYPE,TYPE Desc,Type Code
+Allied Health - AH,Allied Health ,AH,Athletic Trainer - AT,Athletic Trainer ,AT
+Allied Health - AH,Allied Health ,AH,Occupational Therapist - OT,Occupational Therapist ,OT
+Allied Health - AH,Allied Health ,AH,Occupational Therapist Asst - OA,Occupational Therapist Asst ,OA
+Allied Health - AH,Allied Health ,AH,Physical Therapist - PT,Physical Therapist ,PT
+Allied Health - AH,Allied Health ,AH,Physical Therapist Assistant - PA,Physical Therapist Assistant ,PA
+Allied Health - AH,Allied Health ,AH,Physical Therapy Facility - PF,Physical Therapy Facility ,PF
+Allied Mental Health - MH,Allied Mental Health ,MH,Applied Behavior Analyst - B1,Applied Behavior Analyst ,B1
+Allied Mental Health - MH,Allied Mental Health ,MH,Asst Applied Behavior Analyst - B2,Asst Applied Behavior Analyst ,B2
+Allied Mental Health - MH,Allied Mental Health ,MH,Educational Psychologist - ED,Educational Psychologist ,ED
+Allied Mental Health - MH,Allied Mental Health ,MH,Marriage and Family Therapist - MF,Marriage and Family Therapist ,MF
+Allied Mental Health - MH,Allied Mental Health ,MH,Mental Health Counselor - CC,Mental Health Counselor ,CC
+Allied Mental Health - MH,Allied Mental Health ,MH,Rehabilitation Counselor - RT,Rehabilitation Counselor ,RT
+Architect - AR,Architect ,AR,Architect - AR,Architect ,AR
+Architect - AR,Architect ,AR,Architect - R,Architect ,R
+Architect - AR,Architect ,AR,Architect Emeritus - E,Architect Emeritus ,E
+Barbers - BR,Barbers ,BR,Apprentice - A,Apprentice ,A
+Barbers - BR,Barbers ,BR,Instructor - 1,Instructor ,1
+Barbers - BR,Barbers ,BR,Master - M,Master ,M
+Barbers - BS,Barbers ,BS,School - 1,School ,1
+Barbers - BS,Barbers ,BS,Shop - S,Shop ,S
+Chiropractor - CH,Chiropractor ,CH,Chiropractor - CH,Chiropractor ,CH
+Chiropractor - CH,Chiropractor ,CH,Chiropractor Facility - CF,Chiropractor Facility ,CF
+Cosmetology - HD,Cosmetology ,HD,Jr Instructor - JR,Jr Instructor ,JR
+Cosmetology - HD,Cosmetology ,HD,Type 1 - 1,Type 1 ,1
+Cosmetology - HD,Cosmetology ,HD,Type 2 - 2,Type 2 ,2
+Cosmetology - HD,Cosmetology ,HD,Type 3 - 3,Type 3 ,3
+Cosmetology - HD,Cosmetology ,HD,Type 4 - 4,Type 4 ,4
+Cosmetology - HD,Cosmetology ,HD,Type 5 - 5,Type 5 ,5
+Cosmetology - HD,Cosmetology ,HD,Type 6 - 6,Type 6 ,6
+Cosmetology - HD,Cosmetology ,HD,Type 7 - 7,Type 7 ,7
+Cosmetology - HD,Cosmetology ,HD,Type 8 - 8,Type 8 ,8
+Cosmetology - HS,Cosmetology ,HS,Advanced Training Institute - 11,Advanced Training Institute ,11
+Cosmetology - HS,Cosmetology ,HS,Aesthetician School - 10,Aesthetician School ,10
+Cosmetology - HS,Cosmetology ,HS,Manicuring School - 12,Manicuring School ,12
+Cosmetology - HS,Cosmetology ,HS,School - 9,School ,9
+Cosmetology - HS,Cosmetology ,HS,Shop - 1,Shop ,1
+Cosmetology - HS,Cosmetology ,HS,Shop - 2,Shop ,2
+Cosmetology - HS,Cosmetology ,HS,Shop - 3,Shop ,3
+Cosmetology - HS,Cosmetology ,HS,Shop - 4,Shop ,4
+Cosmetology - HS,Cosmetology ,HS,Shop - 5,Shop ,5
+Dietitians and Nutritionists - NU,Dietitians and Nutritionists ,NU,Dietitians and Nutritionists - NU,Dietitians and Nutritionists ,NU
+Dispensing Opticians - DO,Dispensing Opticians ,DO,Dispensing Optician - DO,Dispensing Optician ,DO
+Drinking Water - DW,Drinking Water ,DW,Drinking Water Operator - D1,Drinking Water Operator ,D1
+Drinking Water - DW,Drinking Water ,DW,Drinking Water Operator - D2,Drinking Water Operator ,D2
+Drinking Water - DW,Drinking Water ,DW,Drinking Water Operator - D3,Drinking Water Operator ,D3
+Drinking Water - DW,Drinking Water ,DW,Drinking Water Operator - D4,Drinking Water Operator ,D4
+Drinking Water - DW,Drinking Water ,DW,Drinking Water Operator - DA,Drinking Water Operator ,DA
+Drinking Water - DW,Drinking Water ,DW,Drinking Water Operator - DB,Drinking Water Operator ,DB
+Drinking Water - DW,Drinking Water ,DW,Drinking Water Operator - DC,Drinking Water Operator ,DC
+Drinking Water - DW,Drinking Water ,DW,Drinking Water Operator - DD,Drinking Water Operator ,DD
+Drinking Water - DW,Drinking Water ,DW,Drinking Water Operator - N1,Drinking Water Operator ,N1
+Drinking Water - DW,Drinking Water ,DW,Drinking Water Operator - NA,Drinking Water Operator ,NA
+Drinking Water - DW,Drinking Water ,DW,Drinking Water Operator - T1,Drinking Water Operator ,T1
+Drinking Water - DW,Drinking Water ,DW,Drinking Water Operator - T2,Drinking Water Operator ,T2
+Drinking Water - DW,Drinking Water ,DW,Drinking Water Operator - T3,Drinking Water Operator ,T3
+Drinking Water - DW,Drinking Water ,DW,Drinking Water Operator - T4,Drinking Water Operator ,T4
+Drinking Water - DW,Drinking Water ,DW,Drinking Water Operator - TA,Drinking Water Operator ,TA
+Drinking Water - DW,Drinking Water ,DW,Drinking Water Operator - TB,Drinking Water Operator ,TB
+Drinking Water - DW,Drinking Water ,DW,Drinking Water Operator - TC,Drinking Water Operator ,TC
+Drinking Water - DW,Drinking Water ,DW,Drinking Water Operator - TD,Drinking Water Operator ,TD
+Drinking Water - DW,Drinking Water ,DW,Drinking Water Operator - VS,Drinking Water Operator ,VS
+Drinking Water - DW,Drinking Water ,DW,Drinking Water Operator - VT,Drinking Water Operator ,VT
+Drinking Water - DW,Drinking Water ,DW,Dual Certification Operator - C1,Dual Certification Operator ,C1
+Drinking Water - DW,Drinking Water ,DW,Dual Certification Operator - C2,Dual Certification Operator ,C2
+Drinking Water - DW,Drinking Water ,DW,Dual Certification Operator - C3,Dual Certification Operator ,C3
+Drinking Water - DW,Drinking Water ,DW,Dual Certification Operator - C4,Dual Certification Operator ,C4
+Electricians - EL,Electricians ,EL,Journeyman Electrician - B,Journeyman Electrician ,B
+Electricians - EL,Electricians ,EL,Journeyman Electrician - E,Journeyman Electrician ,E
+Electricians - EL,Electricians ,EL,Journeyman Electrician - EE,Journeyman Electrician ,EE
+Electricians - EL,Electricians ,EL,Journeyman Electrician - JR,Journeyman Electrician ,JR
+Electricians - EL,Electricians ,EL,Journeyman Electrician - RE,Journeyman Electrician ,RE
+Electricians - EL,Electricians ,EL,Master Electrician - A,Master Electrician ,A
+Electricians - EL,Electricians ,EL,Master Electrician - AA,Master Electrician ,AA
+Electricians - EL,Electricians ,EL,Master Electrician - MR,Master Electrician ,MR
+Electricians - EL,Electricians ,EL,Master Electrician - RA,Master Electrician ,RA
+Electricians - FA,Electricians ,FA,Fire Alarm Systems Contractor - C,Fire Alarm Systems Contractor ,C
+Electricians - FA,Electricians ,FA,Fire Alarm Systems Technician - D,Fire Alarm Systems Technician ,D
+Electrology - ET,Electrology ,ET,Electrologist - 1,Electrologist ,1
+Electrology - ET,Electrology ,ET,Electrology Instructor - 3,Electrology Instructor ,3
+Electrology - ET,Electrology ,ET,Electrology School - 4,Electrology School ,4
+Engineers and Land Surveyors - EN,Engineers and Land Surveyors ,EN,Engineer In Training - EI,Engineer In Training ,EI
+Engineers and Land Surveyors - EN,Engineers and Land Surveyors ,EN,Land Surveyor in Training - SI,Land Surveyor in Training ,SI
+Engineers and Land Surveyors - EN,Engineers and Land Surveyors ,EN,Professional Engineer - A,Professional Engineer ,A
+Engineers and Land Surveyors - EN,Engineers and Land Surveyors ,EN,Professional Engineer - AA,Professional Engineer ,AA
+Engineers and Land Surveyors - EN,Engineers and Land Surveyors ,EN,Professional Engineer - AE,Professional Engineer ,AE
+Engineers and Land Surveyors - EN,Engineers and Land Surveyors ,EN,Professional Engineer - AG,Professional Engineer ,AG
+Engineers and Land Surveyors - EN,Engineers and Land Surveyors ,EN,Professional Engineer - AM,Professional Engineer ,AM
+Engineers and Land Surveyors - EN,Engineers and Land Surveyors ,EN,Professional Engineer - AR,Professional Engineer ,AR
+Engineers and Land Surveyors - EN,Engineers and Land Surveyors ,EN,Professional Engineer - AS,Professional Engineer ,AS
+Engineers and Land Surveyors - EN,Engineers and Land Surveyors ,EN,Professional Engineer - AT,Professional Engineer ,AT
+Engineers and Land Surveyors - EN,Engineers and Land Surveyors ,EN,Professional Engineer - C,Professional Engineer ,C
+Engineers and Land Surveyors - EN,Engineers and Land Surveyors ,EN,Professional Engineer - CE,Professional Engineer ,CE
+Engineers and Land Surveyors - EN,Engineers and Land Surveyors ,EN,Professional Engineer - CH,Professional Engineer ,CH
+Engineers and Land Surveyors - EN,Engineers and Land Surveyors ,EN,Professional Engineer - CO,Professional Engineer ,CO
+Engineers and Land Surveyors - EN,Engineers and Land Surveyors ,EN,Professional Engineer - CR,Professional Engineer ,CR
+Engineers and Land Surveyors - EN,Engineers and Land Surveyors ,EN,Professional Engineer - CS,Professional Engineer ,CS
+Engineers and Land Surveyors - EN,Engineers and Land Surveyors ,EN,Professional Engineer - E,Professional Engineer ,E
+Engineers and Land Surveyors - EN,Engineers and Land Surveyors ,EN,Professional Engineer - EL,Professional Engineer ,EL
+Engineers and Land Surveyors - EN,Engineers and Land Surveyors ,EN,Professional Engineer - EN,Professional Engineer ,EN
+Engineers and Land Surveyors - EN,Engineers and Land Surveyors ,EN,Professional Engineer - EP,Professional Engineer ,EP
+Engineers and Land Surveyors - EN,Engineers and Land Surveyors ,EN,Professional Engineer - FP,Professional Engineer ,FP
+Engineers and Land Surveyors - EN,Engineers and Land Surveyors ,EN,Professional Engineer - GE,Professional Engineer ,GE
+Engineers and Land Surveyors - EN,Engineers and Land Surveyors ,EN,Professional Engineer - GO,Professional Engineer ,GO
+Engineers and Land Surveyors - EN,Engineers and Land Surveyors ,EN,Professional Engineer - GT,Professional Engineer ,GT
+Engineers and Land Surveyors - EN,Engineers and Land Surveyors ,EN,Professional Engineer - HI,Professional Engineer ,HI
+Engineers and Land Surveyors - EN,Engineers and Land Surveyors ,EN,Professional Engineer - HV,Professional Engineer ,HV
+Engineers and Land Surveyors - EN,Engineers and Land Surveyors ,EN,Professional Engineer - I,Professional Engineer ,I
+Engineers and Land Surveyors - EN,Engineers and Land Surveyors ,EN,Professional Engineer - IN,Professional Engineer ,IN
+Engineers and Land Surveyors - EN,Engineers and Land Surveyors ,EN,Professional Engineer - M,Professional Engineer ,M
+Engineers and Land Surveyors - EN,Engineers and Land Surveyors ,EN,Professional Engineer - MA,Professional Engineer ,MA
+Engineers and Land Surveyors - EN,Engineers and Land Surveyors ,EN,Professional Engineer - ME,Professional Engineer ,ME
+Engineers and Land Surveyors - EN,Engineers and Land Surveyors ,EN,Professional Engineer - MI,Professional Engineer ,MI
+Engineers and Land Surveyors - EN,Engineers and Land Surveyors ,EN,Professional Engineer - MN,Professional Engineer ,MN
+Engineers and Land Surveyors - EN,Engineers and Land Surveyors ,EN,Professional Engineer - MT,Professional Engineer ,MT
+Engineers and Land Surveyors - EN,Engineers and Land Surveyors ,EN,Professional Engineer - NA,Professional Engineer ,NA
+Engineers and Land Surveyors - EN,Engineers and Land Surveyors ,EN,Professional Engineer - NU,Professional Engineer ,NU
+Engineers and Land Surveyors - EN,Engineers and Land Surveyors ,EN,Professional Engineer - P,Professional Engineer ,P
+Engineers and Land Surveyors - EN,Engineers and Land Surveyors ,EN,Professional Engineer - PE,Professional Engineer ,PE
+Engineers and Land Surveyors - EN,Engineers and Land Surveyors ,EN,Professional Engineer - PL,Professional Engineer ,PL
+Engineers and Land Surveyors - EN,Engineers and Land Surveyors ,EN,Professional Engineer - QU,Professional Engineer ,QU
+Engineers and Land Surveyors - EN,Engineers and Land Surveyors ,EN,Professional Engineer - RR,Professional Engineer ,RR
+Engineers and Land Surveyors - EN,Engineers and Land Surveyors ,EN,Professional Engineer - SA,Professional Engineer ,SA
+Engineers and Land Surveyors - EN,Engineers and Land Surveyors ,EN,Professional Engineer - SF,Professional Engineer ,SF
+Engineers and Land Surveyors - EN,Engineers and Land Surveyors ,EN,Professional Engineer - ST,Professional Engineer ,ST
+Engineers and Land Surveyors - EN,Engineers and Land Surveyors ,EN,Professional Engineer - SY,Professional Engineer ,SY
+Engineers and Land Surveyors - EN,Engineers and Land Surveyors ,EN,Professional Engineer - TF,Professional Engineer ,TF
+Engineers and Land Surveyors - EN,Engineers and Land Surveyors ,EN,Professional Engineer - TR,Professional Engineer ,TR
+Engineers and Land Surveyors - EN,Engineers and Land Surveyors ,EN,Professional Engineer - TX,Professional Engineer ,TX
+Engineers and Land Surveyors - EN,Engineers and Land Surveyors ,EN,Professional Land Surveyor - LS,Professional Land Surveyor ,LS
+Funeral Directors - EM,Funeral Directors ,EM,Certified Funeral Director - 5,Certified Funeral Director ,5
+Funeral Directors - EM,Funeral Directors ,EM,Embalmer Apprentice - A,Embalmer Apprentice ,A
+Funeral Directors - EM,Funeral Directors ,EM,Funeral Assistant - FA,Funeral Assistant ,FA
+Funeral Directors - EM,Funeral Directors ,EM,Licensed Funeral Director - 2,Licensed Funeral Director ,2
+Funeral Directors - EM,Funeral Directors ,EM,Reg Unlic Funeral Director - 4,Reg Unlic Funeral Director ,4
+Funeral Directors - EM,Funeral Directors ,EM,Registered Embalmer - 1,Registered Embalmer ,1
+Funeral Directors - EM,Funeral Directors ,EM,Type 3 - 3,Type 3 ,3
+Funeral Directors - EM,Funeral Directors ,EM,Type 6 - 6,Type 6 ,6
+Funeral Directors - FE,Funeral Directors ,FE,Funeral Establishment - FE,Funeral Establishment ,FE
+Health Officers - HO,Health Officers ,HO,Certified Health Officer - HO,Certified Health Officer ,HO
+Hearing Instrument - HE,Hearing Instrument ,HE,Apprentice - A,Apprentice ,A
+Hearing Instrument - HE,Hearing Instrument ,HE,Specialist - 1,Specialist ,1
+Home Inspector - HI,Home Inspector ,HI,Home Inspector - 1,Home Inspector ,1
+Home Inspector - HI,Home Inspector ,HI,Home Inspector Associate - 2,Home Inspector Associate ,2
+Landscape Architects - LA,Landscape Architects ,LA,Landscape Architect - LA,Landscape Architect ,LA
+Massage Therapy - MT,Massage Therapy ,MT,Massage Therapist - MT,Massage Therapist ,MT
+Massage Therapy - MT,Massage Therapy ,MT,Multiple Massage Establishment - MM,Multiple Massage Establishment ,MM
+Massage Therapy - MT,Massage Therapy ,MT,Solo Massage Establishment - MF,Solo Massage Establishment ,MF
+Occupational Schools - OS,Occupational Schools ,OS,Sales Representative - SR,Sales Representative ,SR
+Occupational Schools - OS,Occupational Schools ,OS,School - NP,School ,NP
+Occupational Schools - OS,Occupational Schools ,OS,School - P,School ,P
+Optometry - OP,Optometry ,OP,Optometrist - DPA,Optometrist ,DPA
+Optometry - OP,Optometry ,OP,Optometrist - OP,Optometrist ,OP
+Optometry - OP,Optometry ,OP,Optometrist - TPA,Optometrist ,TPA
+Plumbers and Gas Fitters - GF,Plumbers and Gas Fitters ,GF,Gas Fitter Apprentice - A,Gas Fitter Apprentice ,A
+Plumbers and Gas Fitters - GF,Plumbers and Gas Fitters ,GF,Gas Fitter Business - C,Gas Fitter Business ,C
+Plumbers and Gas Fitters - GF,Plumbers and Gas Fitters ,GF,Gas Fitter Journeyman - J,Gas Fitter Journeyman ,J
+Plumbers and Gas Fitters - GF,Plumbers and Gas Fitters ,GF,Gas Fitter Master - M,Gas Fitter Master ,M
+Plumbers and Gas Fitters - GF,Plumbers and Gas Fitters ,GF,Gas Fitter Master - MI,Gas Fitter Master ,MI
+Plumbers and Gas Fitters - GF,Plumbers and Gas Fitters ,GF,Inspector - IN,Inspector ,IN
+Plumbers and Gas Fitters - GF,Plumbers and Gas Fitters ,GF,LP Installer - LP,LP Installer ,LP
+Plumbers and Gas Fitters - GF,Plumbers and Gas Fitters ,GF,LTD LP Installer - LT,LTD LP Installer ,LT
+Plumbers and Gas Fitters - PL,Plumbers and Gas Fitters ,PL,Apprentice - A,Apprentice ,A
+Plumbers and Gas Fitters - PL,Plumbers and Gas Fitters ,PL,Business - C,Business ,C
+Plumbers and Gas Fitters - PL,Plumbers and Gas Fitters ,PL,Business - P,Business ,P
+Plumbers and Gas Fitters - PL,Plumbers and Gas Fitters ,PL,Inspector - IN,Inspector ,IN
+Plumbers and Gas Fitters - PL,Plumbers and Gas Fitters ,PL,Journeyman - J,Journeyman ,J
+Plumbers and Gas Fitters - PL,Plumbers and Gas Fitters ,PL,Journeyman - JI,Journeyman ,JI
+Plumbers and Gas Fitters - PL,Plumbers and Gas Fitters ,PL,Master - M,Master ,M
+Plumbers and Gas Fitters - PL,Plumbers and Gas Fitters ,PL,Master - MI,Master ,MI
+Podiatry - PD,Podiatry ,PD,Podiatrist - PD,Podiatrist ,PD
+Podiatry - PD,Podiatry ,PD,Podiatrist Limited License - LL,Podiatrist Limited License ,LL
+Psychologist - PY,Psychologist ,PY,Psychologist - NP,Psychologist ,NP
+Psychologist - PY,Psychologist ,PY,Psychologist - PR,Psychologist ,PR
+Psychologist - PY,Psychologist ,PY,Psychologist - PY,Psychologist ,PY
+Public Accountancy - CA,Public Accountancy ,CA,CPA - CA,CPA ,CA
+Public Accountancy - CA,Public Accountancy ,CA,CPA - PA,CPA ,PA
+Public Accountancy - CA,Public Accountancy ,CA,CPA Firm for Business Corp - BC,CPA Firm for Business Corp ,BC
+Public Accountancy - CA,Public Accountancy ,CA,CPA Firm for LLC - LC,CPA Firm for LLC ,LC
+Public Accountancy - CA,Public Accountancy ,CA,CPA Firm for Partnership - P,CPA Firm for Partnership ,P
+Public Accountancy - CA,Public Accountancy ,CA,CPA Firm for Partnership - PAP,CPA Firm for Partnership ,PAP
+Public Accountancy - CA,Public Accountancy ,CA,CPA Firm for Professional Corp - C,CPA Firm for Professional Corp ,C
+Public Accountancy - CA,Public Accountancy ,CA,CPA Firm for Professional Corp - PAC,CPA Firm for Professional Corp ,PAC
+Public Accountancy - CA,Public Accountancy ,CA,CPA Firm License for LLP - LP,CPA Firm License for LLP ,LP
+Radio and TV Technician - TV,Radio and TV Technician ,TV,Master Technician - 1,Master Technician ,1
+Radio and TV Technician - TV,Radio and TV Technician ,TV,Registered Technician - 2,Registered Technician ,2
+Real Estate - 24,Real Estate ,24,Broker - ,Broker ,
+Real Estate - RE,Real Estate ,RE,Broker - AB,Broker ,AB
+Real Estate - RE,Real Estate ,RE,Broker - B,Broker ,B
+Real Estate - RE,Real Estate ,RE,Broker - RB,Broker ,RB
+Real Estate - RE,Real Estate ,RE,Business - C,Business ,C
+Real Estate - RE,Real Estate ,RE,Business - LC,Business ,LC
+Real Estate - RE,Real Estate ,RE,Business - LP,Business ,LP
+Real Estate - RE,Real Estate ,RE,Business - PC,Business ,PC
+Real Estate - RE,Real Estate ,RE,Business - PG,Business ,PG
+Real Estate - RE,Real Estate ,RE,Business - PL,Business ,PL
+Real Estate - RE,Real Estate ,RE,Salesperson - RS,Salesperson ,RS
+Real Estate - RE,Real Estate ,RE,Salesperson - S,Salesperson ,S
+Real Estate - RE,Real Estate ,RE,School - SC,School ,SC
+Real Estate Appraiser - RA,Real Estate Appraiser ,RA,Appraiser - CG,Appraiser ,CG
+Real Estate Appraiser - RA,Real Estate Appraiser ,RA,Appraiser - CR,Appraiser ,CR
+Real Estate Appraiser - RA,Real Estate Appraiser ,RA,Appraiser - LA,Appraiser ,LA
+Real Estate Appraiser - RA,Real Estate Appraiser ,RA,Appraiser - TA,Appraiser ,TA
+Real Estate Appraiser - RA,Real Estate Appraiser ,RA,Temporary Appraiser - TP,Temporary Appraiser ,TP
+Real Estate Appraiser - RA,Real Estate Appraiser ,RA,Trainee - TR,Trainee ,TR
+Sanitarian - SA,Sanitarian ,SA,Sanitarian - SA,Sanitarian ,SA
+Sheet Metal - SM,Sheet Metal ,SM,Apprentice - A,Apprentice ,A
+Sheet Metal - SM,Sheet Metal ,SM,Business License - B,Business License ,B
+Sheet Metal - SM,Sheet Metal ,SM,Instructor - I,Instructor ,I
+Sheet Metal - SM,Sheet Metal ,SM,Journeyperson - J1,Journeyperson ,J1
+Sheet Metal - SM,Sheet Metal ,SM,Journeyperson - J2,Journeyperson ,J2
+Sheet Metal - SM,Sheet Metal ,SM,Master - M1,Master ,M1
+Sheet Metal - SM,Sheet Metal ,SM,School - S1,School ,S1
+Sheet Metal - SM,Sheet Metal ,SM,School - S2,School ,S2
+Social Workers - SW,Social Workers ,SW,LCSW - LCSW,LCSW ,LCSW
+Social Workers - SW,Social Workers ,SW,LICSW - LICSW,LICSW ,LICSW
+Social Workers - SW,Social Workers ,SW,LSW - LSW,LSW ,LSW
+Social Workers - SW,Social Workers ,SW,LSWA - LSWA,LSWA ,LSWA
+Speech and Audiology - SP,Speech and Audiology ,SP,Audiologist - AU,Audiologist ,AU
+Speech and Audiology - SP,Speech and Audiology ,SP,Audiology Assistant - AA,Audiology Assistant ,AA
+Speech and Audiology - SP,Speech and Audiology ,SP,Speech Language Pathologist - SL,Speech Language Pathologist ,SL
+Speech and Audiology - SP,Speech and Audiology ,SP,Speech Language Pathology Asst - SA,Speech Language Pathology Asst ,SA
+Veterinarian - VT,Veterinarian ,VT,Tufts Individual - TP,Tufts Individual ,TP
+Veterinarian - VT,Veterinarian ,VT,Veterinarian License - LP,Veterinarian License ,LP
+Veterinarian - VT,Veterinarian ,VT,Veterinarian License - VT,Veterinarian License ,VT
+Veterinarian - VT,Veterinarian ,VT,Veterinary Tufts Institutional - TI,Veterinary Tufts Institutional ,TI
