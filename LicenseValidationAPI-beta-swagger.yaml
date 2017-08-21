@@ -35,24 +35,7 @@ paths:
           description: "200 response"
           schema:
             $ref: "#/definitions/Empty"
-  /dev/licenses/entities:
-    options:
-      consumes:
-      - "application/json"
-      produces:
-      - "application/json"
-      responses:
-        200:
-          description: "200 response"
-          schema:
-            $ref: "#/definitions/Empty"
-          headers:
-            Access-Control-Allow-Origin:
-              type: "string"
-            Access-Control-Allow-Methods:
-              type: "string"
-            Access-Control-Allow-Headers:
-              type: "string"
+  /dev/licenses/entities:  
   /dev/licenses/entities/entity-name:
     get:
       consumes:
@@ -100,7 +83,7 @@ paths:
             $ref: "#/definitions/Empty"
           headers:
             Access-Control-Allow-Origin:
-              type: "string"    
+              type: "string"
   /dev/licenses/sources/{source}/{license-num}:
     get:
       consumes:
