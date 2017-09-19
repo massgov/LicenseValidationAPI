@@ -1,0 +1,684 @@
+{
+	"total-agencies": "2",
+	"agencies": [
+		{
+			"agency": "dpl",
+			"license-types": [
+				{
+					"Board Code": "24",
+					"BOARD": "Real Estate - 24",
+					"BOARD Desc": "Real Estate",
+					"type-codes": [
+						""
+					]
+				},
+				{
+					"Board Code": "AH",
+					"BOARD": "Allied Health - AH",
+					"BOARD Desc": "Allied Health",
+					"type-codes": [
+						"AT",
+						"OT",
+						"OA",
+						"PT",
+						"PA",
+						"PF"
+					]
+				},
+				{
+					"Board Code": "MH",
+					"BOARD": "Allied Mental Health - MH",
+					"BOARD Desc": "Allied Mental Health",
+					"type-codes": [
+						"B1",
+						"B2",
+						"ED",
+						"MF",
+						"CC",
+						"RT"
+					]
+				},
+				{
+					"Board Code": "AR",
+					"BOARD": "Architect - AR",
+					"BOARD Desc": "Architect",
+					"type-codes": [
+						"AR",
+						"R",
+						"E"
+					]
+				},
+				{
+					"Board Code": "BR",
+					"BOARD": "Barbers - BR",
+					"BOARD Desc": "Barbers",
+					"type-codes": [
+						"A",
+						"1",
+						"M"
+					]
+				},
+				{
+					"Board Code": "BS",
+					"BOARD": "Barbers - BS",
+					"BOARD Desc": "Barbers",
+					"type-codes": [
+						"1",
+						"S"
+					]
+				},
+				{
+					"Board Code": "CH",
+					"BOARD": "Chiropractor - CH",
+					"BOARD Desc": "Chiropractor",
+					"type-codes": [
+						"CH",
+						"CF"
+					]
+				},
+				{
+					"Board Code": "HD",
+					"BOARD": "Cosmetology - HD",
+					"BOARD Desc": "Cosmetology",
+					"type-codes": [
+						"JR",
+						"1",
+						"2",
+						"3",
+						"4",
+						"5",
+						"6",
+						"7",
+						"8"
+					]
+				},
+				{
+					"Board Code": "HS",
+					"BOARD": "Cosmetology - HS",
+					"BOARD Desc": "Cosmetology",
+					"type-codes": [
+						"11",
+						"10",
+						"12",
+						"9",
+						"1",
+						"2",
+						"3",
+						"4",
+						"5"
+					]
+				},
+				{
+					"Board Code": "NU",
+					"BOARD": "Dietitians and Nutritionists - NU",
+					"BOARD Desc": "Dietitians and Nutritionists",
+					"type-codes": [
+						"NU"
+					]
+				},
+				{
+					"Board Code": "DO",
+					"BOARD": "Dispensing Opticians - DO",
+					"BOARD Desc": "Dispensing Opticians",
+					"type-codes": [
+						"DO"
+					]
+				},
+				{
+					"Board Code": "DW",
+					"BOARD": "Drinking Water - DW",
+					"BOARD Desc": "Drinking Water",
+					"type-codes": [
+						"D1",
+						"D2",
+						"D3",
+						"D4",
+						"DA",
+						"DB",
+						"DC",
+						"DD",
+						"N1",
+						"NA",
+						"T1",
+						"T2",
+						"T3",
+						"T4",
+						"TA",
+						"TB",
+						"TC",
+						"TD",
+						"VS",
+						"VT",
+						"C1",
+						"C2",
+						"C3",
+						"C4"
+					]
+				},
+				{
+					"Board Code": "EL",
+					"BOARD": "Electricians - EL",
+					"BOARD Desc": "Electricians",
+					"type-codes": [
+						"B",
+						"E",
+						"EE",
+						"JR",
+						"RE",
+						"A",
+						"AA",
+						"MR",
+						"RA"
+					]
+				},
+				{
+					"Board Code": "FA",
+					"BOARD": "Electricians - FA",
+					"BOARD Desc": "Electricians",
+					"type-codes": [
+						"C",
+						"D"
+					]
+				},
+				{
+					"Board Code": "ET",
+					"BOARD": "Electrology - ET",
+					"BOARD Desc": "Electrology",
+					"type-codes": [
+						"1",
+						"3",
+						"4"
+					]
+				},
+				{
+					"Board Code": "EN",
+					"BOARD": "Engineers and Land Surveyors - EN",
+					"BOARD Desc": "Engineers and Land Surveyors",
+					"type-codes": [
+						"EI",
+						"SI",
+						"A",
+						"AA",
+						"AE",
+						"AG",
+						"AM",
+						"AR",
+						"AS",
+						"AT",
+						"C",
+						"CE",
+						"CH",
+						"CO",
+						"CR",
+						"CS",
+						"E",
+						"EL",
+						"EN",
+						"EP",
+						"FP",
+						"GE",
+						"GO",
+						"GT",
+						"HI",
+						"HV",
+						"I",
+						"IN",
+						"M",
+						"MA",
+						"ME",
+						"MI",
+						"MN",
+						"MT",
+						"NA",
+						"NU",
+						"P",
+						"PE",
+						"PL",
+						"QU",
+						"RR",
+						"SA",
+						"SF",
+						"ST",
+						"SY",
+						"TF",
+						"TR",
+						"TX",
+						"LS"
+					]
+				},
+				{
+					"Board Code": "EM",
+					"BOARD": "Funeral Directors - EM",
+					"BOARD Desc": "Funeral Directors",
+					"type-codes": [
+						"5",
+						"A",
+						"FA",
+						"2",
+						"4",
+						"1",
+						"3",
+						"6"
+					]
+				},
+				{
+					"Board Code": "FE",
+					"BOARD": "Funeral Directors - FE",
+					"BOARD Desc": "Funeral Directors",
+					"type-codes": [
+						"FE"
+					]
+				},
+				{
+					"Board Code": "HO",
+					"BOARD": "Health Officers - HO",
+					"BOARD Desc": "Health Officers",
+					"type-codes": [
+						"HO"
+					]
+				},
+				{
+					"Board Code": "HE",
+					"BOARD": "Hearing Instrument - HE",
+					"BOARD Desc": "Hearing Instrument",
+					"type-codes": [
+						"A",
+						"1"
+					]
+				},
+				{
+					"Board Code": "HI",
+					"BOARD": "Home Inspector - HI",
+					"BOARD Desc": "Home Inspector",
+					"type-codes": [
+						"1",
+						"2"
+					]
+				},
+				{
+					"Board Code": "LA",
+					"BOARD": "Landscape Architects - LA",
+					"BOARD Desc": "Landscape Architects",
+					"type-codes": [
+						"LA"
+					]
+				},
+				{
+					"Board Code": "MT",
+					"BOARD": "Massage Therapy - MT",
+					"BOARD Desc": "Massage Therapy",
+					"type-codes": [
+						"MT",
+						"MM",
+						"MF"
+					]
+				},
+				{
+					"Board Code": "OS",
+					"BOARD": "Occupational Schools - OS",
+					"BOARD Desc": "Occupational Schools",
+					"type-codes": [
+						"SR",
+						"NP",
+						"P"
+					]
+				},
+				{
+					"Board Code": "OP",
+					"BOARD": "Optometry - OP",
+					"BOARD Desc": "Optometry",
+					"type-codes": [
+						"DPA",
+						"OP",
+						"TPA"
+					]
+				},
+				{
+					"Board Code": "GF",
+					"BOARD": "Plumbers and Gas Fitters - GF",
+					"BOARD Desc": "Plumbers and Gas Fitters",
+					"type-codes": [
+						"A",
+						"C",
+						"J",
+						"M",
+						"MI",
+						"IN",
+						"LP",
+						"LT"
+					]
+				},
+				{
+					"Board Code": "PL",
+					"BOARD": "Plumbers and Gas Fitters - PL",
+					"BOARD Desc": "Plumbers and Gas Fitters",
+					"type-codes": [
+						"A",
+						"C",
+						"P",
+						"IN",
+						"J",
+						"JI",
+						"M",
+						"MI"
+					]
+				},
+				{
+					"Board Code": "PD",
+					"BOARD": "Podiatry - PD",
+					"BOARD Desc": "Podiatry",
+					"type-codes": [
+						"PD",
+						"LL"
+					]
+				},
+				{
+					"Board Code": "PY",
+					"BOARD": "Psychologist - PY",
+					"BOARD Desc": "Psychologist",
+					"type-codes": [
+						"NP",
+						"PR",
+						"PY"
+					]
+				},
+				{
+					"Board Code": "CA",
+					"BOARD": "Public Accountancy - CA",
+					"BOARD Desc": "Public Accountancy",
+					"type-codes": [
+						"CA",
+						"PA",
+						"BC",
+						"LC",
+						"P",
+						"PAP",
+						"C",
+						"PAC",
+						"LP"
+					]
+				},
+				{
+					"Board Code": "TV",
+					"BOARD": "Radio and TV Technician - TV",
+					"BOARD Desc": "Radio and TV Technician",
+					"type-codes": [
+						"1",
+						"2"
+					]
+				},
+				{
+					"Board Code": "RE",
+					"BOARD": "Real Estate - RE",
+					"BOARD Desc": "Real Estate",
+					"type-codes": [
+						"AB",
+						"B",
+						"RB",
+						"C",
+						"LC",
+						"LP",
+						"PC",
+						"PG",
+						"PL",
+						"RS",
+						"S",
+						"SC"
+					]
+				},
+				{
+					"Board Code": "RA",
+					"BOARD": "Real Estate Appraiser - RA",
+					"BOARD Desc": "Real Estate Appraiser",
+					"type-codes": [
+						"CG",
+						"CR",
+						"LA",
+						"TA",
+						"TP",
+						"TR"
+					]
+				},
+				{
+					"Board Code": "SA",
+					"BOARD": "Sanitarian - SA",
+					"BOARD Desc": "Sanitarian",
+					"type-codes": [
+						"SA"
+					]
+				},
+				{
+					"Board Code": "SM",
+					"BOARD": "Sheet Metal - SM",
+					"BOARD Desc": "Sheet Metal",
+					"type-codes": [
+						"A",
+						"B",
+						"I",
+						"J1",
+						"J2",
+						"M1",
+						"S1",
+						"S2"
+					]
+				},
+				{
+					"Board Code": "SW",
+					"BOARD": "Social Workers - SW",
+					"BOARD Desc": "Social Workers",
+					"type-codes": [
+						"LCSW",
+						"LICSW",
+						"LSW",
+						"LSWA"
+					]
+				},
+				{
+					"Board Code": "SP",
+					"BOARD": "Speech and Audiology - SP",
+					"BOARD Desc": "Speech and Audiology",
+					"type-codes": [
+						"AU",
+						"AA",
+						"SL",
+						"SA"
+					]
+				},
+				{
+					"Board Code": "VT",
+					"BOARD": "Veterinarian - VT",
+					"BOARD Desc": "Veterinarian",
+					"type-codes": [
+						"TP",
+						"LP",
+						"VT",
+						"TI"
+					]
+				}
+			]
+		},
+		{
+			"agency": "eopss",
+			"license-types": [
+				{
+					"Profession ID": "10",
+					"Profession Name": "Engineering Licenses",
+					"type-codes": [
+						"1010",
+						"1020",
+						"1030",
+						"1040",
+						"1050",
+						"1060",
+						"1065",
+						"1066",
+						"1067",
+						"1070",
+						"1071",
+						"1072",
+						"1073",
+						"1074",
+						"1075",
+						"1076",
+						"1077",
+						"1078",
+						"1079",
+						"1080",
+						"1081",
+						"1082",
+						"1083",
+						"1084",
+						"1085",
+						"1085",
+						"1086",
+						"1087",
+						"1091",
+						"1094",
+						"10000",
+						"10001",
+						"10002",
+						"10003",
+						"10004",
+						"10005",
+						"10006",
+						"10007",
+						"10008",
+						"10009",
+						"10010",
+						"10011",
+						"10012",
+						"10013",
+						"10014",
+						"10015",
+						"10016",
+						"10017",
+						"10018",
+						"10019",
+						"10020",
+						"10021",
+						"10050",
+						"10051",
+						"10053",
+						"10054",
+						"10055",
+						"10056",
+						"10057",
+						"10070",
+						"10071",
+						"10072",
+						"10073",
+						"10740",
+						"10750",
+						"10752",
+						"10754",
+						"10755",
+						"10756",
+						"10760",
+						"10762",
+						"10764",
+						"10765",
+						"10766"
+					]
+				},
+				{
+					"Profession ID": "11",
+					"Profession Name": "Elevators Licenses",
+					"type-codes": [
+						"1101",
+						"1102",
+						"1110"
+					]
+				},
+				{
+					"Profession ID": "12",
+					"Profession Name": "Building Licenses",
+					"type-codes": [
+						"1201",
+						"1202",
+						"1203",
+						"1204",
+						"1205",
+						"1206",
+						"12001",
+						"12004",
+						"12009",
+						"12011",
+						"12012",
+						"12019",
+						"12020",
+						"12020"
+					]
+				},
+				{
+					"Profession ID": "13",
+					"Profession Name": "Regulated-Activity",
+					"type-codes": [
+						"13001",
+						"13001",
+						"13002",
+						"13002",
+						"13003",
+						"13004",
+						"13004",
+						"13005",
+						"13007",
+						"13008",
+						"13009",
+						"13010",
+						"13010",
+						"13010",
+						"13011",
+						"13012",
+						"13013",
+						"13014",
+						"13015",
+						"13016",
+						"13017",
+						"13018",
+						"13018",
+						"13019",
+						"13021",
+						"13022",
+						"13023",
+						"13024",
+						"13025",
+						"13025",
+						"13026",
+						"13027",
+						"13028",
+						"13029",
+						"13030",
+						"13032",
+						"13033",
+						"13033",
+						"13034",
+						"13035",
+						"13036",
+						"13037",
+						"13038",
+						"13039",
+						"13040",
+						"13041",
+						"13042",
+						"13043"
+					]
+				},
+				{
+					"Profession ID": "14",
+					"Profession Name": "Amusement Licenses",
+					"type-codes": [
+						"1402",
+						"1403",
+						"1405",
+						"14001",
+						"14002",
+						"14003",
+						"14004",
+						"14005",
+						"14006"
+					]
+				}
+			]
+		}
+	]
+}

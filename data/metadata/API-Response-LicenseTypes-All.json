@@ -1,0 +1,2860 @@
+{
+	"total-agencies": "3",
+	"agencies": [
+		{
+			"agency": "dpl",
+			"license-types": [
+				{
+					"BOARD": "Allied Health - AH",
+					"BOARD Desc": "Allied Health",
+					"Board Code": "AH",
+					"TYPE": "Athletic Trainer - AT",
+					"TYPE Desc": "Athletic Trainer",
+					"Type Code": "AT"
+				},
+				{
+					"BOARD": "Allied Health - AH",
+					"BOARD Desc": "Allied Health",
+					"Board Code": "AH",
+					"TYPE": "Occupational Therapist - OT",
+					"TYPE Desc": "Occupational Therapist",
+					"Type Code": "OT"
+				},
+				{
+					"BOARD": "Allied Health - AH",
+					"BOARD Desc": "Allied Health",
+					"Board Code": "AH",
+					"TYPE": "Occupational Therapist Asst - OA",
+					"TYPE Desc": "Occupational Therapist Asst",
+					"Type Code": "OA"
+				},
+				{
+					"BOARD": "Allied Health - AH",
+					"BOARD Desc": "Allied Health",
+					"Board Code": "AH",
+					"TYPE": "Physical Therapist - PT",
+					"TYPE Desc": "Physical Therapist",
+					"Type Code": "PT"
+				},
+				{
+					"BOARD": "Allied Health - AH",
+					"BOARD Desc": "Allied Health",
+					"Board Code": "AH",
+					"TYPE": "Physical Therapist Assistant - PA",
+					"TYPE Desc": "Physical Therapist Assistant",
+					"Type Code": "PA"
+				},
+				{
+					"BOARD": "Allied Health - AH",
+					"BOARD Desc": "Allied Health",
+					"Board Code": "AH",
+					"TYPE": "Physical Therapy Facility - PF",
+					"TYPE Desc": "Physical Therapy Facility",
+					"Type Code": "PF"
+				},
+				{
+					"BOARD": "Allied Mental Health - MH",
+					"BOARD Desc": "Allied Mental Health",
+					"Board Code": "MH",
+					"TYPE": "Applied Behavior Analyst - B1",
+					"TYPE Desc": "Applied Behavior Analyst",
+					"Type Code": "B1"
+				},
+				{
+					"BOARD": "Allied Mental Health - MH",
+					"BOARD Desc": "Allied Mental Health",
+					"Board Code": "MH",
+					"TYPE": "Asst Applied Behavior Analyst - B2",
+					"TYPE Desc": "Asst Applied Behavior Analyst",
+					"Type Code": "B2"
+				},
+				{
+					"BOARD": "Allied Mental Health - MH",
+					"BOARD Desc": "Allied Mental Health",
+					"Board Code": "MH",
+					"TYPE": "Educational Psychologist - ED",
+					"TYPE Desc": "Educational Psychologist",
+					"Type Code": "ED"
+				},
+				{
+					"BOARD": "Allied Mental Health - MH",
+					"BOARD Desc": "Allied Mental Health",
+					"Board Code": "MH",
+					"TYPE": "Marriage and Family Therapist - MF",
+					"TYPE Desc": "Marriage and Family Therapist",
+					"Type Code": "MF"
+				},
+				{
+					"BOARD": "Allied Mental Health - MH",
+					"BOARD Desc": "Allied Mental Health",
+					"Board Code": "MH",
+					"TYPE": "Mental Health Counselor - CC",
+					"TYPE Desc": "Mental Health Counselor",
+					"Type Code": "CC"
+				},
+				{
+					"BOARD": "Allied Mental Health - MH",
+					"BOARD Desc": "Allied Mental Health",
+					"Board Code": "MH",
+					"TYPE": "Rehabilitation Counselor - RT",
+					"TYPE Desc": "Rehabilitation Counselor",
+					"Type Code": "RT"
+				},
+				{
+					"BOARD": "Architect - AR",
+					"BOARD Desc": "Architect",
+					"Board Code": "AR",
+					"TYPE": "Architect - AR",
+					"TYPE Desc": "Architect",
+					"Type Code": "AR"
+				},
+				{
+					"BOARD": "Architect - AR",
+					"BOARD Desc": "Architect",
+					"Board Code": "AR",
+					"TYPE": "Architect - R",
+					"TYPE Desc": "Architect",
+					"Type Code": "R"
+				},
+				{
+					"BOARD": "Architect - AR",
+					"BOARD Desc": "Architect",
+					"Board Code": "AR",
+					"TYPE": "Architect Emeritus - E",
+					"TYPE Desc": "Architect Emeritus",
+					"Type Code": "E"
+				},
+				{
+					"BOARD": "Barbers - BR",
+					"BOARD Desc": "Barbers",
+					"Board Code": "BR",
+					"TYPE": "Apprentice - A",
+					"TYPE Desc": "Apprentice",
+					"Type Code": "A"
+				},
+				{
+					"BOARD": "Barbers - BR",
+					"BOARD Desc": "Barbers",
+					"Board Code": "BR",
+					"TYPE": "Instructor - 1",
+					"TYPE Desc": "Instructor",
+					"Type Code": "1"
+				},
+				{
+					"BOARD": "Barbers - BR",
+					"BOARD Desc": "Barbers",
+					"Board Code": "BR",
+					"TYPE": "Master - M",
+					"TYPE Desc": "Master",
+					"Type Code": "M"
+				},
+				{
+					"BOARD": "Barbers - BS",
+					"BOARD Desc": "Barbers",
+					"Board Code": "BS",
+					"TYPE": "School - 1",
+					"TYPE Desc": "School",
+					"Type Code": "1"
+				},
+				{
+					"BOARD": "Barbers - BS",
+					"BOARD Desc": "Barbers",
+					"Board Code": "BS",
+					"TYPE": "Shop - S",
+					"TYPE Desc": "Shop",
+					"Type Code": "S"
+				},
+				{
+					"BOARD": "Chiropractor - CH",
+					"BOARD Desc": "Chiropractor",
+					"Board Code": "CH",
+					"TYPE": "Chiropractor - CH",
+					"TYPE Desc": "Chiropractor",
+					"Type Code": "CH"
+				},
+				{
+					"BOARD": "Chiropractor - CH",
+					"BOARD Desc": "Chiropractor",
+					"Board Code": "CH",
+					"TYPE": "Chiropractor Facility - CF",
+					"TYPE Desc": "Chiropractor Facility",
+					"Type Code": "CF"
+				},
+				{
+					"BOARD": "Cosmetology - HD",
+					"BOARD Desc": "Cosmetology",
+					"Board Code": "HD",
+					"TYPE": "Jr Instructor - JR",
+					"TYPE Desc": "Jr Instructor",
+					"Type Code": "JR"
+				},
+				{
+					"BOARD": "Cosmetology - HD",
+					"BOARD Desc": "Cosmetology",
+					"Board Code": "HD",
+					"TYPE": "Type 1 - 1",
+					"TYPE Desc": "Type 1",
+					"Type Code": "1"
+				},
+				{
+					"BOARD": "Cosmetology - HD",
+					"BOARD Desc": "Cosmetology",
+					"Board Code": "HD",
+					"TYPE": "Type 2 - 2",
+					"TYPE Desc": "Type 2",
+					"Type Code": "2"
+				},
+				{
+					"BOARD": "Cosmetology - HD",
+					"BOARD Desc": "Cosmetology",
+					"Board Code": "HD",
+					"TYPE": "Type 3 - 3",
+					"TYPE Desc": "Type 3",
+					"Type Code": "3"
+				},
+				{
+					"BOARD": "Cosmetology - HD",
+					"BOARD Desc": "Cosmetology",
+					"Board Code": "HD",
+					"TYPE": "Type 4 - 4",
+					"TYPE Desc": "Type 4",
+					"Type Code": "4"
+				},
+				{
+					"BOARD": "Cosmetology - HD",
+					"BOARD Desc": "Cosmetology",
+					"Board Code": "HD",
+					"TYPE": "Type 5 - 5",
+					"TYPE Desc": "Type 5",
+					"Type Code": "5"
+				},
+				{
+					"BOARD": "Cosmetology - HD",
+					"BOARD Desc": "Cosmetology",
+					"Board Code": "HD",
+					"TYPE": "Type 6 - 6",
+					"TYPE Desc": "Type 6",
+					"Type Code": "6"
+				},
+				{
+					"BOARD": "Cosmetology - HD",
+					"BOARD Desc": "Cosmetology",
+					"Board Code": "HD",
+					"TYPE": "Type 7 - 7",
+					"TYPE Desc": "Type 7",
+					"Type Code": "7"
+				},
+				{
+					"BOARD": "Cosmetology - HD",
+					"BOARD Desc": "Cosmetology",
+					"Board Code": "HD",
+					"TYPE": "Type 8 - 8",
+					"TYPE Desc": "Type 8",
+					"Type Code": "8"
+				},
+				{
+					"BOARD": "Cosmetology - HS",
+					"BOARD Desc": "Cosmetology",
+					"Board Code": "HS",
+					"TYPE": "Advanced Training Institute - 11",
+					"TYPE Desc": "Advanced Training Institute",
+					"Type Code": "11"
+				},
+				{
+					"BOARD": "Cosmetology - HS",
+					"BOARD Desc": "Cosmetology",
+					"Board Code": "HS",
+					"TYPE": "Aesthetician School - 10",
+					"TYPE Desc": "Aesthetician School",
+					"Type Code": "10"
+				},
+				{
+					"BOARD": "Cosmetology - HS",
+					"BOARD Desc": "Cosmetology",
+					"Board Code": "HS",
+					"TYPE": "Manicuring School - 12",
+					"TYPE Desc": "Manicuring School",
+					"Type Code": "12"
+				},
+				{
+					"BOARD": "Cosmetology - HS",
+					"BOARD Desc": "Cosmetology",
+					"Board Code": "HS",
+					"TYPE": "School - 9",
+					"TYPE Desc": "School",
+					"Type Code": "9"
+				},
+				{
+					"BOARD": "Cosmetology - HS",
+					"BOARD Desc": "Cosmetology",
+					"Board Code": "HS",
+					"TYPE": "Shop - 1",
+					"TYPE Desc": "Shop",
+					"Type Code": "1"
+				},
+				{
+					"BOARD": "Cosmetology - HS",
+					"BOARD Desc": "Cosmetology",
+					"Board Code": "HS",
+					"TYPE": "Shop - 2",
+					"TYPE Desc": "Shop",
+					"Type Code": "2"
+				},
+				{
+					"BOARD": "Cosmetology - HS",
+					"BOARD Desc": "Cosmetology",
+					"Board Code": "HS",
+					"TYPE": "Shop - 3",
+					"TYPE Desc": "Shop",
+					"Type Code": "3"
+				},
+				{
+					"BOARD": "Cosmetology - HS",
+					"BOARD Desc": "Cosmetology",
+					"Board Code": "HS",
+					"TYPE": "Shop - 4",
+					"TYPE Desc": "Shop",
+					"Type Code": "4"
+				},
+				{
+					"BOARD": "Cosmetology - HS",
+					"BOARD Desc": "Cosmetology",
+					"Board Code": "HS",
+					"TYPE": "Shop - 5",
+					"TYPE Desc": "Shop",
+					"Type Code": "5"
+				},
+				{
+					"BOARD": "Dietitians and Nutritionists - NU",
+					"BOARD Desc": "Dietitians and Nutritionists",
+					"Board Code": "NU",
+					"TYPE": "Dietitians and Nutritionists - NU",
+					"TYPE Desc": "Dietitians and Nutritionists",
+					"Type Code": "NU"
+				},
+				{
+					"BOARD": "Dispensing Opticians - DO",
+					"BOARD Desc": "Dispensing Opticians",
+					"Board Code": "DO",
+					"TYPE": "Dispensing Optician - DO",
+					"TYPE Desc": "Dispensing Optician",
+					"Type Code": "DO"
+				},
+				{
+					"BOARD": "Drinking Water - DW",
+					"BOARD Desc": "Drinking Water",
+					"Board Code": "DW",
+					"TYPE": "Drinking Water Operator - D1",
+					"TYPE Desc": "Drinking Water Operator",
+					"Type Code": "D1"
+				},
+				{
+					"BOARD": "Drinking Water - DW",
+					"BOARD Desc": "Drinking Water",
+					"Board Code": "DW",
+					"TYPE": "Drinking Water Operator - D2",
+					"TYPE Desc": "Drinking Water Operator",
+					"Type Code": "D2"
+				},
+				{
+					"BOARD": "Drinking Water - DW",
+					"BOARD Desc": "Drinking Water",
+					"Board Code": "DW",
+					"TYPE": "Drinking Water Operator - D3",
+					"TYPE Desc": "Drinking Water Operator",
+					"Type Code": "D3"
+				},
+				{
+					"BOARD": "Drinking Water - DW",
+					"BOARD Desc": "Drinking Water",
+					"Board Code": "DW",
+					"TYPE": "Drinking Water Operator - D4",
+					"TYPE Desc": "Drinking Water Operator",
+					"Type Code": "D4"
+				},
+				{
+					"BOARD": "Drinking Water - DW",
+					"BOARD Desc": "Drinking Water",
+					"Board Code": "DW",
+					"TYPE": "Drinking Water Operator - DA",
+					"TYPE Desc": "Drinking Water Operator",
+					"Type Code": "DA"
+				},
+				{
+					"BOARD": "Drinking Water - DW",
+					"BOARD Desc": "Drinking Water",
+					"Board Code": "DW",
+					"TYPE": "Drinking Water Operator - DB",
+					"TYPE Desc": "Drinking Water Operator",
+					"Type Code": "DB"
+				},
+				{
+					"BOARD": "Drinking Water - DW",
+					"BOARD Desc": "Drinking Water",
+					"Board Code": "DW",
+					"TYPE": "Drinking Water Operator - DC",
+					"TYPE Desc": "Drinking Water Operator",
+					"Type Code": "DC"
+				},
+				{
+					"BOARD": "Drinking Water - DW",
+					"BOARD Desc": "Drinking Water",
+					"Board Code": "DW",
+					"TYPE": "Drinking Water Operator - DD",
+					"TYPE Desc": "Drinking Water Operator",
+					"Type Code": "DD"
+				},
+				{
+					"BOARD": "Drinking Water - DW",
+					"BOARD Desc": "Drinking Water",
+					"Board Code": "DW",
+					"TYPE": "Drinking Water Operator - N1",
+					"TYPE Desc": "Drinking Water Operator",
+					"Type Code": "N1"
+				},
+				{
+					"BOARD": "Drinking Water - DW",
+					"BOARD Desc": "Drinking Water",
+					"Board Code": "DW",
+					"TYPE": "Drinking Water Operator - NA",
+					"TYPE Desc": "Drinking Water Operator",
+					"Type Code": "NA"
+				},
+				{
+					"BOARD": "Drinking Water - DW",
+					"BOARD Desc": "Drinking Water",
+					"Board Code": "DW",
+					"TYPE": "Drinking Water Operator - T1",
+					"TYPE Desc": "Drinking Water Operator",
+					"Type Code": "T1"
+				},
+				{
+					"BOARD": "Drinking Water - DW",
+					"BOARD Desc": "Drinking Water",
+					"Board Code": "DW",
+					"TYPE": "Drinking Water Operator - T2",
+					"TYPE Desc": "Drinking Water Operator",
+					"Type Code": "T2"
+				},
+				{
+					"BOARD": "Drinking Water - DW",
+					"BOARD Desc": "Drinking Water",
+					"Board Code": "DW",
+					"TYPE": "Drinking Water Operator - T3",
+					"TYPE Desc": "Drinking Water Operator",
+					"Type Code": "T3"
+				},
+				{
+					"BOARD": "Drinking Water - DW",
+					"BOARD Desc": "Drinking Water",
+					"Board Code": "DW",
+					"TYPE": "Drinking Water Operator - T4",
+					"TYPE Desc": "Drinking Water Operator",
+					"Type Code": "T4"
+				},
+				{
+					"BOARD": "Drinking Water - DW",
+					"BOARD Desc": "Drinking Water",
+					"Board Code": "DW",
+					"TYPE": "Drinking Water Operator - TA",
+					"TYPE Desc": "Drinking Water Operator",
+					"Type Code": "TA"
+				},
+				{
+					"BOARD": "Drinking Water - DW",
+					"BOARD Desc": "Drinking Water",
+					"Board Code": "DW",
+					"TYPE": "Drinking Water Operator - TB",
+					"TYPE Desc": "Drinking Water Operator",
+					"Type Code": "TB"
+				},
+				{
+					"BOARD": "Drinking Water - DW",
+					"BOARD Desc": "Drinking Water",
+					"Board Code": "DW",
+					"TYPE": "Drinking Water Operator - TC",
+					"TYPE Desc": "Drinking Water Operator",
+					"Type Code": "TC"
+				},
+				{
+					"BOARD": "Drinking Water - DW",
+					"BOARD Desc": "Drinking Water",
+					"Board Code": "DW",
+					"TYPE": "Drinking Water Operator - TD",
+					"TYPE Desc": "Drinking Water Operator",
+					"Type Code": "TD"
+				},
+				{
+					"BOARD": "Drinking Water - DW",
+					"BOARD Desc": "Drinking Water",
+					"Board Code": "DW",
+					"TYPE": "Drinking Water Operator - VS",
+					"TYPE Desc": "Drinking Water Operator",
+					"Type Code": "VS"
+				},
+				{
+					"BOARD": "Drinking Water - DW",
+					"BOARD Desc": "Drinking Water",
+					"Board Code": "DW",
+					"TYPE": "Drinking Water Operator - VT",
+					"TYPE Desc": "Drinking Water Operator",
+					"Type Code": "VT"
+				},
+				{
+					"BOARD": "Drinking Water - DW",
+					"BOARD Desc": "Drinking Water",
+					"Board Code": "DW",
+					"TYPE": "Dual Certification Operator - C1",
+					"TYPE Desc": "Dual Certification Operator",
+					"Type Code": "C1"
+				},
+				{
+					"BOARD": "Drinking Water - DW",
+					"BOARD Desc": "Drinking Water",
+					"Board Code": "DW",
+					"TYPE": "Dual Certification Operator - C2",
+					"TYPE Desc": "Dual Certification Operator",
+					"Type Code": "C2"
+				},
+				{
+					"BOARD": "Drinking Water - DW",
+					"BOARD Desc": "Drinking Water",
+					"Board Code": "DW",
+					"TYPE": "Dual Certification Operator - C3",
+					"TYPE Desc": "Dual Certification Operator",
+					"Type Code": "C3"
+				},
+				{
+					"BOARD": "Drinking Water - DW",
+					"BOARD Desc": "Drinking Water",
+					"Board Code": "DW",
+					"TYPE": "Dual Certification Operator - C4",
+					"TYPE Desc": "Dual Certification Operator",
+					"Type Code": "C4"
+				},
+				{
+					"BOARD": "Electricians - EL",
+					"BOARD Desc": "Electricians",
+					"Board Code": "EL",
+					"TYPE": "Journeyman Electrician - B",
+					"TYPE Desc": "Journeyman Electrician",
+					"Type Code": "B"
+				},
+				{
+					"BOARD": "Electricians - EL",
+					"BOARD Desc": "Electricians",
+					"Board Code": "EL",
+					"TYPE": "Journeyman Electrician - E",
+					"TYPE Desc": "Journeyman Electrician",
+					"Type Code": "E"
+				},
+				{
+					"BOARD": "Electricians - EL",
+					"BOARD Desc": "Electricians",
+					"Board Code": "EL",
+					"TYPE": "Journeyman Electrician - EE",
+					"TYPE Desc": "Journeyman Electrician",
+					"Type Code": "EE"
+				},
+				{
+					"BOARD": "Electricians - EL",
+					"BOARD Desc": "Electricians",
+					"Board Code": "EL",
+					"TYPE": "Journeyman Electrician - JR",
+					"TYPE Desc": "Journeyman Electrician",
+					"Type Code": "JR"
+				},
+				{
+					"BOARD": "Electricians - EL",
+					"BOARD Desc": "Electricians",
+					"Board Code": "EL",
+					"TYPE": "Journeyman Electrician - RE",
+					"TYPE Desc": "Journeyman Electrician",
+					"Type Code": "RE"
+				},
+				{
+					"BOARD": "Electricians - EL",
+					"BOARD Desc": "Electricians",
+					"Board Code": "EL",
+					"TYPE": "Master Electrician - A",
+					"TYPE Desc": "Master Electrician",
+					"Type Code": "A"
+				},
+				{
+					"BOARD": "Electricians - EL",
+					"BOARD Desc": "Electricians",
+					"Board Code": "EL",
+					"TYPE": "Master Electrician - AA",
+					"TYPE Desc": "Master Electrician",
+					"Type Code": "AA"
+				},
+				{
+					"BOARD": "Electricians - EL",
+					"BOARD Desc": "Electricians",
+					"Board Code": "EL",
+					"TYPE": "Master Electrician - MR",
+					"TYPE Desc": "Master Electrician",
+					"Type Code": "MR"
+				},
+				{
+					"BOARD": "Electricians - EL",
+					"BOARD Desc": "Electricians",
+					"Board Code": "EL",
+					"TYPE": "Master Electrician - RA",
+					"TYPE Desc": "Master Electrician",
+					"Type Code": "RA"
+				},
+				{
+					"BOARD": "Electricians - FA",
+					"BOARD Desc": "Electricians",
+					"Board Code": "FA",
+					"TYPE": "Fire Alarm Systems Contractor - C",
+					"TYPE Desc": "Fire Alarm Systems Contractor",
+					"Type Code": "C"
+				},
+				{
+					"BOARD": "Electricians - FA",
+					"BOARD Desc": "Electricians",
+					"Board Code": "FA",
+					"TYPE": "Fire Alarm Systems Technician - D",
+					"TYPE Desc": "Fire Alarm Systems Technician",
+					"Type Code": "D"
+				},
+				{
+					"BOARD": "Electrology - ET",
+					"BOARD Desc": "Electrology",
+					"Board Code": "ET",
+					"TYPE": "Electrologist - 1",
+					"TYPE Desc": "Electrologist",
+					"Type Code": "1"
+				},
+				{
+					"BOARD": "Electrology - ET",
+					"BOARD Desc": "Electrology",
+					"Board Code": "ET",
+					"TYPE": "Electrology Instructor - 3",
+					"TYPE Desc": "Electrology Instructor",
+					"Type Code": "3"
+				},
+				{
+					"BOARD": "Electrology - ET",
+					"BOARD Desc": "Electrology",
+					"Board Code": "ET",
+					"TYPE": "Electrology School - 4",
+					"TYPE Desc": "Electrology School",
+					"Type Code": "4"
+				},
+				{
+					"BOARD": "Engineers and Land Surveyors - EN",
+					"BOARD Desc": "Engineers and Land Surveyors",
+					"Board Code": "EN",
+					"TYPE": "Engineer In Training - EI",
+					"TYPE Desc": "Engineer In Training",
+					"Type Code": "EI"
+				},
+				{
+					"BOARD": "Engineers and Land Surveyors - EN",
+					"BOARD Desc": "Engineers and Land Surveyors",
+					"Board Code": "EN",
+					"TYPE": "Land Surveyor in Training - SI",
+					"TYPE Desc": "Land Surveyor in Training",
+					"Type Code": "SI"
+				},
+				{
+					"BOARD": "Engineers and Land Surveyors - EN",
+					"BOARD Desc": "Engineers and Land Surveyors",
+					"Board Code": "EN",
+					"TYPE": "Professional Engineer - A",
+					"TYPE Desc": "Professional Engineer",
+					"Type Code": "A"
+				},
+				{
+					"BOARD": "Engineers and Land Surveyors - EN",
+					"BOARD Desc": "Engineers and Land Surveyors",
+					"Board Code": "EN",
+					"TYPE": "Professional Engineer - AA",
+					"TYPE Desc": "Professional Engineer",
+					"Type Code": "AA"
+				},
+				{
+					"BOARD": "Engineers and Land Surveyors - EN",
+					"BOARD Desc": "Engineers and Land Surveyors",
+					"Board Code": "EN",
+					"TYPE": "Professional Engineer - AE",
+					"TYPE Desc": "Professional Engineer",
+					"Type Code": "AE"
+				},
+				{
+					"BOARD": "Engineers and Land Surveyors - EN",
+					"BOARD Desc": "Engineers and Land Surveyors",
+					"Board Code": "EN",
+					"TYPE": "Professional Engineer - AG",
+					"TYPE Desc": "Professional Engineer",
+					"Type Code": "AG"
+				},
+				{
+					"BOARD": "Engineers and Land Surveyors - EN",
+					"BOARD Desc": "Engineers and Land Surveyors",
+					"Board Code": "EN",
+					"TYPE": "Professional Engineer - AM",
+					"TYPE Desc": "Professional Engineer",
+					"Type Code": "AM"
+				},
+				{
+					"BOARD": "Engineers and Land Surveyors - EN",
+					"BOARD Desc": "Engineers and Land Surveyors",
+					"Board Code": "EN",
+					"TYPE": "Professional Engineer - AR",
+					"TYPE Desc": "Professional Engineer",
+					"Type Code": "AR"
+				},
+				{
+					"BOARD": "Engineers and Land Surveyors - EN",
+					"BOARD Desc": "Engineers and Land Surveyors",
+					"Board Code": "EN",
+					"TYPE": "Professional Engineer - AS",
+					"TYPE Desc": "Professional Engineer",
+					"Type Code": "AS"
+				},
+				{
+					"BOARD": "Engineers and Land Surveyors - EN",
+					"BOARD Desc": "Engineers and Land Surveyors",
+					"Board Code": "EN",
+					"TYPE": "Professional Engineer - AT",
+					"TYPE Desc": "Professional Engineer",
+					"Type Code": "AT"
+				},
+				{
+					"BOARD": "Engineers and Land Surveyors - EN",
+					"BOARD Desc": "Engineers and Land Surveyors",
+					"Board Code": "EN",
+					"TYPE": "Professional Engineer - C",
+					"TYPE Desc": "Professional Engineer",
+					"Type Code": "C"
+				},
+				{
+					"BOARD": "Engineers and Land Surveyors - EN",
+					"BOARD Desc": "Engineers and Land Surveyors",
+					"Board Code": "EN",
+					"TYPE": "Professional Engineer - CE",
+					"TYPE Desc": "Professional Engineer",
+					"Type Code": "CE"
+				},
+				{
+					"BOARD": "Engineers and Land Surveyors - EN",
+					"BOARD Desc": "Engineers and Land Surveyors",
+					"Board Code": "EN",
+					"TYPE": "Professional Engineer - CH",
+					"TYPE Desc": "Professional Engineer",
+					"Type Code": "CH"
+				},
+				{
+					"BOARD": "Engineers and Land Surveyors - EN",
+					"BOARD Desc": "Engineers and Land Surveyors",
+					"Board Code": "EN",
+					"TYPE": "Professional Engineer - CO",
+					"TYPE Desc": "Professional Engineer",
+					"Type Code": "CO"
+				},
+				{
+					"BOARD": "Engineers and Land Surveyors - EN",
+					"BOARD Desc": "Engineers and Land Surveyors",
+					"Board Code": "EN",
+					"TYPE": "Professional Engineer - CR",
+					"TYPE Desc": "Professional Engineer",
+					"Type Code": "CR"
+				},
+				{
+					"BOARD": "Engineers and Land Surveyors - EN",
+					"BOARD Desc": "Engineers and Land Surveyors",
+					"Board Code": "EN",
+					"TYPE": "Professional Engineer - CS",
+					"TYPE Desc": "Professional Engineer",
+					"Type Code": "CS"
+				},
+				{
+					"BOARD": "Engineers and Land Surveyors - EN",
+					"BOARD Desc": "Engineers and Land Surveyors",
+					"Board Code": "EN",
+					"TYPE": "Professional Engineer - E",
+					"TYPE Desc": "Professional Engineer",
+					"Type Code": "E"
+				},
+				{
+					"BOARD": "Engineers and Land Surveyors - EN",
+					"BOARD Desc": "Engineers and Land Surveyors",
+					"Board Code": "EN",
+					"TYPE": "Professional Engineer - EL",
+					"TYPE Desc": "Professional Engineer",
+					"Type Code": "EL"
+				},
+				{
+					"BOARD": "Engineers and Land Surveyors - EN",
+					"BOARD Desc": "Engineers and Land Surveyors",
+					"Board Code": "EN",
+					"TYPE": "Professional Engineer - EN",
+					"TYPE Desc": "Professional Engineer",
+					"Type Code": "EN"
+				},
+				{
+					"BOARD": "Engineers and Land Surveyors - EN",
+					"BOARD Desc": "Engineers and Land Surveyors",
+					"Board Code": "EN",
+					"TYPE": "Professional Engineer - EP",
+					"TYPE Desc": "Professional Engineer",
+					"Type Code": "EP"
+				},
+				{
+					"BOARD": "Engineers and Land Surveyors - EN",
+					"BOARD Desc": "Engineers and Land Surveyors",
+					"Board Code": "EN",
+					"TYPE": "Professional Engineer - FP",
+					"TYPE Desc": "Professional Engineer",
+					"Type Code": "FP"
+				},
+				{
+					"BOARD": "Engineers and Land Surveyors - EN",
+					"BOARD Desc": "Engineers and Land Surveyors",
+					"Board Code": "EN",
+					"TYPE": "Professional Engineer - GE",
+					"TYPE Desc": "Professional Engineer",
+					"Type Code": "GE"
+				},
+				{
+					"BOARD": "Engineers and Land Surveyors - EN",
+					"BOARD Desc": "Engineers and Land Surveyors",
+					"Board Code": "EN",
+					"TYPE": "Professional Engineer - GO",
+					"TYPE Desc": "Professional Engineer",
+					"Type Code": "GO"
+				},
+				{
+					"BOARD": "Engineers and Land Surveyors - EN",
+					"BOARD Desc": "Engineers and Land Surveyors",
+					"Board Code": "EN",
+					"TYPE": "Professional Engineer - GT",
+					"TYPE Desc": "Professional Engineer",
+					"Type Code": "GT"
+				},
+				{
+					"BOARD": "Engineers and Land Surveyors - EN",
+					"BOARD Desc": "Engineers and Land Surveyors",
+					"Board Code": "EN",
+					"TYPE": "Professional Engineer - HI",
+					"TYPE Desc": "Professional Engineer",
+					"Type Code": "HI"
+				},
+				{
+					"BOARD": "Engineers and Land Surveyors - EN",
+					"BOARD Desc": "Engineers and Land Surveyors",
+					"Board Code": "EN",
+					"TYPE": "Professional Engineer - HV",
+					"TYPE Desc": "Professional Engineer",
+					"Type Code": "HV"
+				},
+				{
+					"BOARD": "Engineers and Land Surveyors - EN",
+					"BOARD Desc": "Engineers and Land Surveyors",
+					"Board Code": "EN",
+					"TYPE": "Professional Engineer - I",
+					"TYPE Desc": "Professional Engineer",
+					"Type Code": "I"
+				},
+				{
+					"BOARD": "Engineers and Land Surveyors - EN",
+					"BOARD Desc": "Engineers and Land Surveyors",
+					"Board Code": "EN",
+					"TYPE": "Professional Engineer - IN",
+					"TYPE Desc": "Professional Engineer",
+					"Type Code": "IN"
+				},
+				{
+					"BOARD": "Engineers and Land Surveyors - EN",
+					"BOARD Desc": "Engineers and Land Surveyors",
+					"Board Code": "EN",
+					"TYPE": "Professional Engineer - M",
+					"TYPE Desc": "Professional Engineer",
+					"Type Code": "M"
+				},
+				{
+					"BOARD": "Engineers and Land Surveyors - EN",
+					"BOARD Desc": "Engineers and Land Surveyors",
+					"Board Code": "EN",
+					"TYPE": "Professional Engineer - MA",
+					"TYPE Desc": "Professional Engineer",
+					"Type Code": "MA"
+				},
+				{
+					"BOARD": "Engineers and Land Surveyors - EN",
+					"BOARD Desc": "Engineers and Land Surveyors",
+					"Board Code": "EN",
+					"TYPE": "Professional Engineer - ME",
+					"TYPE Desc": "Professional Engineer",
+					"Type Code": "ME"
+				},
+				{
+					"BOARD": "Engineers and Land Surveyors - EN",
+					"BOARD Desc": "Engineers and Land Surveyors",
+					"Board Code": "EN",
+					"TYPE": "Professional Engineer - MI",
+					"TYPE Desc": "Professional Engineer",
+					"Type Code": "MI"
+				},
+				{
+					"BOARD": "Engineers and Land Surveyors - EN",
+					"BOARD Desc": "Engineers and Land Surveyors",
+					"Board Code": "EN",
+					"TYPE": "Professional Engineer - MN",
+					"TYPE Desc": "Professional Engineer",
+					"Type Code": "MN"
+				},
+				{
+					"BOARD": "Engineers and Land Surveyors - EN",
+					"BOARD Desc": "Engineers and Land Surveyors",
+					"Board Code": "EN",
+					"TYPE": "Professional Engineer - MT",
+					"TYPE Desc": "Professional Engineer",
+					"Type Code": "MT"
+				},
+				{
+					"BOARD": "Engineers and Land Surveyors - EN",
+					"BOARD Desc": "Engineers and Land Surveyors",
+					"Board Code": "EN",
+					"TYPE": "Professional Engineer - NA",
+					"TYPE Desc": "Professional Engineer",
+					"Type Code": "NA"
+				},
+				{
+					"BOARD": "Engineers and Land Surveyors - EN",
+					"BOARD Desc": "Engineers and Land Surveyors",
+					"Board Code": "EN",
+					"TYPE": "Professional Engineer - NU",
+					"TYPE Desc": "Professional Engineer",
+					"Type Code": "NU"
+				},
+				{
+					"BOARD": "Engineers and Land Surveyors - EN",
+					"BOARD Desc": "Engineers and Land Surveyors",
+					"Board Code": "EN",
+					"TYPE": "Professional Engineer - P",
+					"TYPE Desc": "Professional Engineer",
+					"Type Code": "P"
+				},
+				{
+					"BOARD": "Engineers and Land Surveyors - EN",
+					"BOARD Desc": "Engineers and Land Surveyors",
+					"Board Code": "EN",
+					"TYPE": "Professional Engineer - PE",
+					"TYPE Desc": "Professional Engineer",
+					"Type Code": "PE"
+				},
+				{
+					"BOARD": "Engineers and Land Surveyors - EN",
+					"BOARD Desc": "Engineers and Land Surveyors",
+					"Board Code": "EN",
+					"TYPE": "Professional Engineer - PL",
+					"TYPE Desc": "Professional Engineer",
+					"Type Code": "PL"
+				},
+				{
+					"BOARD": "Engineers and Land Surveyors - EN",
+					"BOARD Desc": "Engineers and Land Surveyors",
+					"Board Code": "EN",
+					"TYPE": "Professional Engineer - QU",
+					"TYPE Desc": "Professional Engineer",
+					"Type Code": "QU"
+				},
+				{
+					"BOARD": "Engineers and Land Surveyors - EN",
+					"BOARD Desc": "Engineers and Land Surveyors",
+					"Board Code": "EN",
+					"TYPE": "Professional Engineer - RR",
+					"TYPE Desc": "Professional Engineer",
+					"Type Code": "RR"
+				},
+				{
+					"BOARD": "Engineers and Land Surveyors - EN",
+					"BOARD Desc": "Engineers and Land Surveyors",
+					"Board Code": "EN",
+					"TYPE": "Professional Engineer - SA",
+					"TYPE Desc": "Professional Engineer",
+					"Type Code": "SA"
+				},
+				{
+					"BOARD": "Engineers and Land Surveyors - EN",
+					"BOARD Desc": "Engineers and Land Surveyors",
+					"Board Code": "EN",
+					"TYPE": "Professional Engineer - SF",
+					"TYPE Desc": "Professional Engineer",
+					"Type Code": "SF"
+				},
+				{
+					"BOARD": "Engineers and Land Surveyors - EN",
+					"BOARD Desc": "Engineers and Land Surveyors",
+					"Board Code": "EN",
+					"TYPE": "Professional Engineer - ST",
+					"TYPE Desc": "Professional Engineer",
+					"Type Code": "ST"
+				},
+				{
+					"BOARD": "Engineers and Land Surveyors - EN",
+					"BOARD Desc": "Engineers and Land Surveyors",
+					"Board Code": "EN",
+					"TYPE": "Professional Engineer - SY",
+					"TYPE Desc": "Professional Engineer",
+					"Type Code": "SY"
+				},
+				{
+					"BOARD": "Engineers and Land Surveyors - EN",
+					"BOARD Desc": "Engineers and Land Surveyors",
+					"Board Code": "EN",
+					"TYPE": "Professional Engineer - TF",
+					"TYPE Desc": "Professional Engineer",
+					"Type Code": "TF"
+				},
+				{
+					"BOARD": "Engineers and Land Surveyors - EN",
+					"BOARD Desc": "Engineers and Land Surveyors",
+					"Board Code": "EN",
+					"TYPE": "Professional Engineer - TR",
+					"TYPE Desc": "Professional Engineer",
+					"Type Code": "TR"
+				},
+				{
+					"BOARD": "Engineers and Land Surveyors - EN",
+					"BOARD Desc": "Engineers and Land Surveyors",
+					"Board Code": "EN",
+					"TYPE": "Professional Engineer - TX",
+					"TYPE Desc": "Professional Engineer",
+					"Type Code": "TX"
+				},
+				{
+					"BOARD": "Engineers and Land Surveyors - EN",
+					"BOARD Desc": "Engineers and Land Surveyors",
+					"Board Code": "EN",
+					"TYPE": "Professional Land Surveyor - LS",
+					"TYPE Desc": "Professional Land Surveyor",
+					"Type Code": "LS"
+				},
+				{
+					"BOARD": "Funeral Directors - EM",
+					"BOARD Desc": "Funeral Directors",
+					"Board Code": "EM",
+					"TYPE": "Certified Funeral Director - 5",
+					"TYPE Desc": "Certified Funeral Director",
+					"Type Code": "5"
+				},
+				{
+					"BOARD": "Funeral Directors - EM",
+					"BOARD Desc": "Funeral Directors",
+					"Board Code": "EM",
+					"TYPE": "Embalmer Apprentice - A",
+					"TYPE Desc": "Embalmer Apprentice",
+					"Type Code": "A"
+				},
+				{
+					"BOARD": "Funeral Directors - EM",
+					"BOARD Desc": "Funeral Directors",
+					"Board Code": "EM",
+					"TYPE": "Funeral Assistant - FA",
+					"TYPE Desc": "Funeral Assistant",
+					"Type Code": "FA"
+				},
+				{
+					"BOARD": "Funeral Directors - EM",
+					"BOARD Desc": "Funeral Directors",
+					"Board Code": "EM",
+					"TYPE": "Licensed Funeral Director - 2",
+					"TYPE Desc": "Licensed Funeral Director",
+					"Type Code": "2"
+				},
+				{
+					"BOARD": "Funeral Directors - EM",
+					"BOARD Desc": "Funeral Directors",
+					"Board Code": "EM",
+					"TYPE": "Reg Unlic Funeral Director - 4",
+					"TYPE Desc": "Reg Unlic Funeral Director",
+					"Type Code": "4"
+				},
+				{
+					"BOARD": "Funeral Directors - EM",
+					"BOARD Desc": "Funeral Directors",
+					"Board Code": "EM",
+					"TYPE": "Registered Embalmer - 1",
+					"TYPE Desc": "Registered Embalmer",
+					"Type Code": "1"
+				},
+				{
+					"BOARD": "Funeral Directors - EM",
+					"BOARD Desc": "Funeral Directors",
+					"Board Code": "EM",
+					"TYPE": "Type 3 - 3",
+					"TYPE Desc": "Type 3",
+					"Type Code": "3"
+				},
+				{
+					"BOARD": "Funeral Directors - EM",
+					"BOARD Desc": "Funeral Directors",
+					"Board Code": "EM",
+					"TYPE": "Type 6 - 6",
+					"TYPE Desc": "Type 6",
+					"Type Code": "6"
+				},
+				{
+					"BOARD": "Funeral Directors - FE",
+					"BOARD Desc": "Funeral Directors",
+					"Board Code": "FE",
+					"TYPE": "Funeral Establishment - FE",
+					"TYPE Desc": "Funeral Establishment",
+					"Type Code": "FE"
+				},
+				{
+					"BOARD": "Health Officers - HO",
+					"BOARD Desc": "Health Officers",
+					"Board Code": "HO",
+					"TYPE": "Certified Health Officer - HO",
+					"TYPE Desc": "Certified Health Officer",
+					"Type Code": "HO"
+				},
+				{
+					"BOARD": "Hearing Instrument - HE",
+					"BOARD Desc": "Hearing Instrument",
+					"Board Code": "HE",
+					"TYPE": "Apprentice - A",
+					"TYPE Desc": "Apprentice",
+					"Type Code": "A"
+				},
+				{
+					"BOARD": "Hearing Instrument - HE",
+					"BOARD Desc": "Hearing Instrument",
+					"Board Code": "HE",
+					"TYPE": "Specialist - 1",
+					"TYPE Desc": "Specialist",
+					"Type Code": "1"
+				},
+				{
+					"BOARD": "Home Inspector - HI",
+					"BOARD Desc": "Home Inspector",
+					"Board Code": "HI",
+					"TYPE": "Home Inspector - 1",
+					"TYPE Desc": "Home Inspector",
+					"Type Code": "1"
+				},
+				{
+					"BOARD": "Home Inspector - HI",
+					"BOARD Desc": "Home Inspector",
+					"Board Code": "HI",
+					"TYPE": "Home Inspector Associate - 2",
+					"TYPE Desc": "Home Inspector Associate",
+					"Type Code": "2"
+				},
+				{
+					"BOARD": "Landscape Architects - LA",
+					"BOARD Desc": "Landscape Architects",
+					"Board Code": "LA",
+					"TYPE": "Landscape Architect - LA",
+					"TYPE Desc": "Landscape Architect",
+					"Type Code": "LA"
+				},
+				{
+					"BOARD": "Massage Therapy - MT",
+					"BOARD Desc": "Massage Therapy",
+					"Board Code": "MT",
+					"TYPE": "Massage Therapist - MT",
+					"TYPE Desc": "Massage Therapist",
+					"Type Code": "MT"
+				},
+				{
+					"BOARD": "Massage Therapy - MT",
+					"BOARD Desc": "Massage Therapy",
+					"Board Code": "MT",
+					"TYPE": "Multiple Massage Establishment - MM",
+					"TYPE Desc": "Multiple Massage Establishment",
+					"Type Code": "MM"
+				},
+				{
+					"BOARD": "Massage Therapy - MT",
+					"BOARD Desc": "Massage Therapy",
+					"Board Code": "MT",
+					"TYPE": "Solo Massage Establishment - MF",
+					"TYPE Desc": "Solo Massage Establishment",
+					"Type Code": "MF"
+				},
+				{
+					"BOARD": "Occupational Schools - OS",
+					"BOARD Desc": "Occupational Schools",
+					"Board Code": "OS",
+					"TYPE": "Sales Representative - SR",
+					"TYPE Desc": "Sales Representative",
+					"Type Code": "SR"
+				},
+				{
+					"BOARD": "Occupational Schools - OS",
+					"BOARD Desc": "Occupational Schools",
+					"Board Code": "OS",
+					"TYPE": "School - NP",
+					"TYPE Desc": "School",
+					"Type Code": "NP"
+				},
+				{
+					"BOARD": "Occupational Schools - OS",
+					"BOARD Desc": "Occupational Schools",
+					"Board Code": "OS",
+					"TYPE": "School - P",
+					"TYPE Desc": "School",
+					"Type Code": "P"
+				},
+				{
+					"BOARD": "Optometry - OP",
+					"BOARD Desc": "Optometry",
+					"Board Code": "OP",
+					"TYPE": "Optometrist - DPA",
+					"TYPE Desc": "Optometrist",
+					"Type Code": "DPA"
+				},
+				{
+					"BOARD": "Optometry - OP",
+					"BOARD Desc": "Optometry",
+					"Board Code": "OP",
+					"TYPE": "Optometrist - OP",
+					"TYPE Desc": "Optometrist",
+					"Type Code": "OP"
+				},
+				{
+					"BOARD": "Optometry - OP",
+					"BOARD Desc": "Optometry",
+					"Board Code": "OP",
+					"TYPE": "Optometrist - TPA",
+					"TYPE Desc": "Optometrist",
+					"Type Code": "TPA"
+				},
+				{
+					"BOARD": "Plumbers and Gas Fitters - GF",
+					"BOARD Desc": "Plumbers and Gas Fitters",
+					"Board Code": "GF",
+					"TYPE": "Gas Fitter Apprentice - A",
+					"TYPE Desc": "Gas Fitter Apprentice",
+					"Type Code": "A"
+				},
+				{
+					"BOARD": "Plumbers and Gas Fitters - GF",
+					"BOARD Desc": "Plumbers and Gas Fitters",
+					"Board Code": "GF",
+					"TYPE": "Gas Fitter Business - C",
+					"TYPE Desc": "Gas Fitter Business",
+					"Type Code": "C"
+				},
+				{
+					"BOARD": "Plumbers and Gas Fitters - GF",
+					"BOARD Desc": "Plumbers and Gas Fitters",
+					"Board Code": "GF",
+					"TYPE": "Gas Fitter Journeyman - J",
+					"TYPE Desc": "Gas Fitter Journeyman",
+					"Type Code": "J"
+				},
+				{
+					"BOARD": "Plumbers and Gas Fitters - GF",
+					"BOARD Desc": "Plumbers and Gas Fitters",
+					"Board Code": "GF",
+					"TYPE": "Gas Fitter Master - M",
+					"TYPE Desc": "Gas Fitter Master",
+					"Type Code": "M"
+				},
+				{
+					"BOARD": "Plumbers and Gas Fitters - GF",
+					"BOARD Desc": "Plumbers and Gas Fitters",
+					"Board Code": "GF",
+					"TYPE": "Gas Fitter Master - MI",
+					"TYPE Desc": "Gas Fitter Master",
+					"Type Code": "MI"
+				},
+				{
+					"BOARD": "Plumbers and Gas Fitters - GF",
+					"BOARD Desc": "Plumbers and Gas Fitters",
+					"Board Code": "GF",
+					"TYPE": "Inspector - IN",
+					"TYPE Desc": "Inspector",
+					"Type Code": "IN"
+				},
+				{
+					"BOARD": "Plumbers and Gas Fitters - GF",
+					"BOARD Desc": "Plumbers and Gas Fitters",
+					"Board Code": "GF",
+					"TYPE": "LP Installer - LP",
+					"TYPE Desc": "LP Installer",
+					"Type Code": "LP"
+				},
+				{
+					"BOARD": "Plumbers and Gas Fitters - GF",
+					"BOARD Desc": "Plumbers and Gas Fitters",
+					"Board Code": "GF",
+					"TYPE": "LTD LP Installer - LT",
+					"TYPE Desc": "LTD LP Installer",
+					"Type Code": "LT"
+				},
+				{
+					"BOARD": "Plumbers and Gas Fitters - PL",
+					"BOARD Desc": "Plumbers and Gas Fitters",
+					"Board Code": "PL",
+					"TYPE": "Apprentice - A",
+					"TYPE Desc": "Apprentice",
+					"Type Code": "A"
+				},
+				{
+					"BOARD": "Plumbers and Gas Fitters - PL",
+					"BOARD Desc": "Plumbers and Gas Fitters",
+					"Board Code": "PL",
+					"TYPE": "Business - C",
+					"TYPE Desc": "Business",
+					"Type Code": "C"
+				},
+				{
+					"BOARD": "Plumbers and Gas Fitters - PL",
+					"BOARD Desc": "Plumbers and Gas Fitters",
+					"Board Code": "PL",
+					"TYPE": "Business - P",
+					"TYPE Desc": "Business",
+					"Type Code": "P"
+				},
+				{
+					"BOARD": "Plumbers and Gas Fitters - PL",
+					"BOARD Desc": "Plumbers and Gas Fitters",
+					"Board Code": "PL",
+					"TYPE": "Inspector - IN",
+					"TYPE Desc": "Inspector",
+					"Type Code": "IN"
+				},
+				{
+					"BOARD": "Plumbers and Gas Fitters - PL",
+					"BOARD Desc": "Plumbers and Gas Fitters",
+					"Board Code": "PL",
+					"TYPE": "Journeyman - J",
+					"TYPE Desc": "Journeyman",
+					"Type Code": "J"
+				},
+				{
+					"BOARD": "Plumbers and Gas Fitters - PL",
+					"BOARD Desc": "Plumbers and Gas Fitters",
+					"Board Code": "PL",
+					"TYPE": "Journeyman - JI",
+					"TYPE Desc": "Journeyman",
+					"Type Code": "JI"
+				},
+				{
+					"BOARD": "Plumbers and Gas Fitters - PL",
+					"BOARD Desc": "Plumbers and Gas Fitters",
+					"Board Code": "PL",
+					"TYPE": "Master - M",
+					"TYPE Desc": "Master",
+					"Type Code": "M"
+				},
+				{
+					"BOARD": "Plumbers and Gas Fitters - PL",
+					"BOARD Desc": "Plumbers and Gas Fitters",
+					"Board Code": "PL",
+					"TYPE": "Master - MI",
+					"TYPE Desc": "Master",
+					"Type Code": "MI"
+				},
+				{
+					"BOARD": "Podiatry - PD",
+					"BOARD Desc": "Podiatry",
+					"Board Code": "PD",
+					"TYPE": "Podiatrist - PD",
+					"TYPE Desc": "Podiatrist",
+					"Type Code": "PD"
+				},
+				{
+					"BOARD": "Podiatry - PD",
+					"BOARD Desc": "Podiatry",
+					"Board Code": "PD",
+					"TYPE": "Podiatrist Limited License - LL",
+					"TYPE Desc": "Podiatrist Limited License",
+					"Type Code": "LL"
+				},
+				{
+					"BOARD": "Psychologist - PY",
+					"BOARD Desc": "Psychologist",
+					"Board Code": "PY",
+					"TYPE": "Psychologist - NP",
+					"TYPE Desc": "Psychologist",
+					"Type Code": "NP"
+				},
+				{
+					"BOARD": "Psychologist - PY",
+					"BOARD Desc": "Psychologist",
+					"Board Code": "PY",
+					"TYPE": "Psychologist - PR",
+					"TYPE Desc": "Psychologist",
+					"Type Code": "PR"
+				},
+				{
+					"BOARD": "Psychologist - PY",
+					"BOARD Desc": "Psychologist",
+					"Board Code": "PY",
+					"TYPE": "Psychologist - PY",
+					"TYPE Desc": "Psychologist",
+					"Type Code": "PY"
+				},
+				{
+					"BOARD": "Public Accountancy - CA",
+					"BOARD Desc": "Public Accountancy",
+					"Board Code": "CA",
+					"TYPE": "CPA - CA",
+					"TYPE Desc": "CPA",
+					"Type Code": "CA"
+				},
+				{
+					"BOARD": "Public Accountancy - CA",
+					"BOARD Desc": "Public Accountancy",
+					"Board Code": "CA",
+					"TYPE": "CPA - PA",
+					"TYPE Desc": "CPA",
+					"Type Code": "PA"
+				},
+				{
+					"BOARD": "Public Accountancy - CA",
+					"BOARD Desc": "Public Accountancy",
+					"Board Code": "CA",
+					"TYPE": "CPA Firm for Business Corp - BC",
+					"TYPE Desc": "CPA Firm for Business Corp",
+					"Type Code": "BC"
+				},
+				{
+					"BOARD": "Public Accountancy - CA",
+					"BOARD Desc": "Public Accountancy",
+					"Board Code": "CA",
+					"TYPE": "CPA Firm for LLC - LC",
+					"TYPE Desc": "CPA Firm for LLC",
+					"Type Code": "LC"
+				},
+				{
+					"BOARD": "Public Accountancy - CA",
+					"BOARD Desc": "Public Accountancy",
+					"Board Code": "CA",
+					"TYPE": "CPA Firm for Partnership - P",
+					"TYPE Desc": "CPA Firm for Partnership",
+					"Type Code": "P"
+				},
+				{
+					"BOARD": "Public Accountancy - CA",
+					"BOARD Desc": "Public Accountancy",
+					"Board Code": "CA",
+					"TYPE": "CPA Firm for Partnership - PAP",
+					"TYPE Desc": "CPA Firm for Partnership",
+					"Type Code": "PAP"
+				},
+				{
+					"BOARD": "Public Accountancy - CA",
+					"BOARD Desc": "Public Accountancy",
+					"Board Code": "CA",
+					"TYPE": "CPA Firm for Professional Corp - C",
+					"TYPE Desc": "CPA Firm for Professional Corp",
+					"Type Code": "C"
+				},
+				{
+					"BOARD": "Public Accountancy - CA",
+					"BOARD Desc": "Public Accountancy",
+					"Board Code": "CA",
+					"TYPE": "CPA Firm for Professional Corp - PAC",
+					"TYPE Desc": "CPA Firm for Professional Corp",
+					"Type Code": "PAC"
+				},
+				{
+					"BOARD": "Public Accountancy - CA",
+					"BOARD Desc": "Public Accountancy",
+					"Board Code": "CA",
+					"TYPE": "CPA Firm License for LLP - LP",
+					"TYPE Desc": "CPA Firm License for LLP",
+					"Type Code": "LP"
+				},
+				{
+					"BOARD": "Radio and TV Technician - TV",
+					"BOARD Desc": "Radio and TV Technician",
+					"Board Code": "TV",
+					"TYPE": "Master Technician - 1",
+					"TYPE Desc": "Master Technician",
+					"Type Code": "1"
+				},
+				{
+					"BOARD": "Radio and TV Technician - TV",
+					"BOARD Desc": "Radio and TV Technician",
+					"Board Code": "TV",
+					"TYPE": "Registered Technician - 2",
+					"TYPE Desc": "Registered Technician",
+					"Type Code": "2"
+				},
+				{
+					"BOARD": "Real Estate - 24",
+					"BOARD Desc": "Real Estate",
+					"Board Code": "24",
+					"TYPE": "Broker -",
+					"TYPE Desc": "Broker",
+					"Type Code": ""
+				},
+				{
+					"BOARD": "Real Estate - RE",
+					"BOARD Desc": "Real Estate",
+					"Board Code": "RE",
+					"TYPE": "Broker - AB",
+					"TYPE Desc": "Broker",
+					"Type Code": "AB"
+				},
+				{
+					"BOARD": "Real Estate - RE",
+					"BOARD Desc": "Real Estate",
+					"Board Code": "RE",
+					"TYPE": "Broker - B",
+					"TYPE Desc": "Broker",
+					"Type Code": "B"
+				},
+				{
+					"BOARD": "Real Estate - RE",
+					"BOARD Desc": "Real Estate",
+					"Board Code": "RE",
+					"TYPE": "Broker - RB",
+					"TYPE Desc": "Broker",
+					"Type Code": "RB"
+				},
+				{
+					"BOARD": "Real Estate - RE",
+					"BOARD Desc": "Real Estate",
+					"Board Code": "RE",
+					"TYPE": "Business - C",
+					"TYPE Desc": "Business",
+					"Type Code": "C"
+				},
+				{
+					"BOARD": "Real Estate - RE",
+					"BOARD Desc": "Real Estate",
+					"Board Code": "RE",
+					"TYPE": "Business - LC",
+					"TYPE Desc": "Business",
+					"Type Code": "LC"
+				},
+				{
+					"BOARD": "Real Estate - RE",
+					"BOARD Desc": "Real Estate",
+					"Board Code": "RE",
+					"TYPE": "Business - LP",
+					"TYPE Desc": "Business",
+					"Type Code": "LP"
+				},
+				{
+					"BOARD": "Real Estate - RE",
+					"BOARD Desc": "Real Estate",
+					"Board Code": "RE",
+					"TYPE": "Business - PC",
+					"TYPE Desc": "Business",
+					"Type Code": "PC"
+				},
+				{
+					"BOARD": "Real Estate - RE",
+					"BOARD Desc": "Real Estate",
+					"Board Code": "RE",
+					"TYPE": "Business - PG",
+					"TYPE Desc": "Business",
+					"Type Code": "PG"
+				},
+				{
+					"BOARD": "Real Estate - RE",
+					"BOARD Desc": "Real Estate",
+					"Board Code": "RE",
+					"TYPE": "Business - PL",
+					"TYPE Desc": "Business",
+					"Type Code": "PL"
+				},
+				{
+					"BOARD": "Real Estate - RE",
+					"BOARD Desc": "Real Estate",
+					"Board Code": "RE",
+					"TYPE": "Salesperson - RS",
+					"TYPE Desc": "Salesperson",
+					"Type Code": "RS"
+				},
+				{
+					"BOARD": "Real Estate - RE",
+					"BOARD Desc": "Real Estate",
+					"Board Code": "RE",
+					"TYPE": "Salesperson - S",
+					"TYPE Desc": "Salesperson",
+					"Type Code": "S"
+				},
+				{
+					"BOARD": "Real Estate - RE",
+					"BOARD Desc": "Real Estate",
+					"Board Code": "RE",
+					"TYPE": "School - SC",
+					"TYPE Desc": "School",
+					"Type Code": "SC"
+				},
+				{
+					"BOARD": "Real Estate Appraiser - RA",
+					"BOARD Desc": "Real Estate Appraiser",
+					"Board Code": "RA",
+					"TYPE": "Appraiser - CG",
+					"TYPE Desc": "Appraiser",
+					"Type Code": "CG"
+				},
+				{
+					"BOARD": "Real Estate Appraiser - RA",
+					"BOARD Desc": "Real Estate Appraiser",
+					"Board Code": "RA",
+					"TYPE": "Appraiser - CR",
+					"TYPE Desc": "Appraiser",
+					"Type Code": "CR"
+				},
+				{
+					"BOARD": "Real Estate Appraiser - RA",
+					"BOARD Desc": "Real Estate Appraiser",
+					"Board Code": "RA",
+					"TYPE": "Appraiser - LA",
+					"TYPE Desc": "Appraiser",
+					"Type Code": "LA"
+				},
+				{
+					"BOARD": "Real Estate Appraiser - RA",
+					"BOARD Desc": "Real Estate Appraiser",
+					"Board Code": "RA",
+					"TYPE": "Appraiser - TA",
+					"TYPE Desc": "Appraiser",
+					"Type Code": "TA"
+				},
+				{
+					"BOARD": "Real Estate Appraiser - RA",
+					"BOARD Desc": "Real Estate Appraiser",
+					"Board Code": "RA",
+					"TYPE": "Temporary Appraiser - TP",
+					"TYPE Desc": "Temporary Appraiser",
+					"Type Code": "TP"
+				},
+				{
+					"BOARD": "Real Estate Appraiser - RA",
+					"BOARD Desc": "Real Estate Appraiser",
+					"Board Code": "RA",
+					"TYPE": "Trainee - TR",
+					"TYPE Desc": "Trainee",
+					"Type Code": "TR"
+				},
+				{
+					"BOARD": "Sanitarian - SA",
+					"BOARD Desc": "Sanitarian",
+					"Board Code": "SA",
+					"TYPE": "Sanitarian - SA",
+					"TYPE Desc": "Sanitarian",
+					"Type Code": "SA"
+				},
+				{
+					"BOARD": "Sheet Metal - SM",
+					"BOARD Desc": "Sheet Metal",
+					"Board Code": "SM",
+					"TYPE": "Apprentice - A",
+					"TYPE Desc": "Apprentice",
+					"Type Code": "A"
+				},
+				{
+					"BOARD": "Sheet Metal - SM",
+					"BOARD Desc": "Sheet Metal",
+					"Board Code": "SM",
+					"TYPE": "Business License - B",
+					"TYPE Desc": "Business License",
+					"Type Code": "B"
+				},
+				{
+					"BOARD": "Sheet Metal - SM",
+					"BOARD Desc": "Sheet Metal",
+					"Board Code": "SM",
+					"TYPE": "Instructor - I",
+					"TYPE Desc": "Instructor",
+					"Type Code": "I"
+				},
+				{
+					"BOARD": "Sheet Metal - SM",
+					"BOARD Desc": "Sheet Metal",
+					"Board Code": "SM",
+					"TYPE": "Journeyperson - J1",
+					"TYPE Desc": "Journeyperson",
+					"Type Code": "J1"
+				},
+				{
+					"BOARD": "Sheet Metal - SM",
+					"BOARD Desc": "Sheet Metal",
+					"Board Code": "SM",
+					"TYPE": "Journeyperson - J2",
+					"TYPE Desc": "Journeyperson",
+					"Type Code": "J2"
+				},
+				{
+					"BOARD": "Sheet Metal - SM",
+					"BOARD Desc": "Sheet Metal",
+					"Board Code": "SM",
+					"TYPE": "Master - M1",
+					"TYPE Desc": "Master",
+					"Type Code": "M1"
+				},
+				{
+					"BOARD": "Sheet Metal - SM",
+					"BOARD Desc": "Sheet Metal",
+					"Board Code": "SM",
+					"TYPE": "School - S1",
+					"TYPE Desc": "School",
+					"Type Code": "S1"
+				},
+				{
+					"BOARD": "Sheet Metal - SM",
+					"BOARD Desc": "Sheet Metal",
+					"Board Code": "SM",
+					"TYPE": "School - S2",
+					"TYPE Desc": "School",
+					"Type Code": "S2"
+				},
+				{
+					"BOARD": "Social Workers - SW",
+					"BOARD Desc": "Social Workers",
+					"Board Code": "SW",
+					"TYPE": "LCSW - LCSW",
+					"TYPE Desc": "LCSW",
+					"Type Code": "LCSW"
+				},
+				{
+					"BOARD": "Social Workers - SW",
+					"BOARD Desc": "Social Workers",
+					"Board Code": "SW",
+					"TYPE": "LICSW - LICSW",
+					"TYPE Desc": "LICSW",
+					"Type Code": "LICSW"
+				},
+				{
+					"BOARD": "Social Workers - SW",
+					"BOARD Desc": "Social Workers",
+					"Board Code": "SW",
+					"TYPE": "LSW - LSW",
+					"TYPE Desc": "LSW",
+					"Type Code": "LSW"
+				},
+				{
+					"BOARD": "Social Workers - SW",
+					"BOARD Desc": "Social Workers",
+					"Board Code": "SW",
+					"TYPE": "LSWA - LSWA",
+					"TYPE Desc": "LSWA",
+					"Type Code": "LSWA"
+				},
+				{
+					"BOARD": "Speech and Audiology - SP",
+					"BOARD Desc": "Speech and Audiology",
+					"Board Code": "SP",
+					"TYPE": "Audiologist - AU",
+					"TYPE Desc": "Audiologist",
+					"Type Code": "AU"
+				},
+				{
+					"BOARD": "Speech and Audiology - SP",
+					"BOARD Desc": "Speech and Audiology",
+					"Board Code": "SP",
+					"TYPE": "Audiology Assistant - AA",
+					"TYPE Desc": "Audiology Assistant",
+					"Type Code": "AA"
+				},
+				{
+					"BOARD": "Speech and Audiology - SP",
+					"BOARD Desc": "Speech and Audiology",
+					"Board Code": "SP",
+					"TYPE": "Speech Language Pathologist - SL",
+					"TYPE Desc": "Speech Language Pathologist",
+					"Type Code": "SL"
+				},
+				{
+					"BOARD": "Speech and Audiology - SP",
+					"BOARD Desc": "Speech and Audiology",
+					"Board Code": "SP",
+					"TYPE": "Speech Language Pathology Asst - SA",
+					"TYPE Desc": "Speech Language Pathology Asst",
+					"Type Code": "SA"
+				},
+				{
+					"BOARD": "Veterinarian - VT",
+					"BOARD Desc": "Veterinarian",
+					"Board Code": "VT",
+					"TYPE": "Tufts Individual - TP",
+					"TYPE Desc": "Tufts Individual",
+					"Type Code": "TP"
+				},
+				{
+					"BOARD": "Veterinarian - VT",
+					"BOARD Desc": "Veterinarian",
+					"Board Code": "VT",
+					"TYPE": "Veterinarian License - LP",
+					"TYPE Desc": "Veterinarian License",
+					"Type Code": "LP"
+				},
+				{
+					"BOARD": "Veterinarian - VT",
+					"BOARD Desc": "Veterinarian",
+					"Board Code": "VT",
+					"TYPE": "Veterinarian License - VT",
+					"TYPE Desc": "Veterinarian License",
+					"Type Code": "VT"
+				},
+				{
+					"BOARD": "Veterinarian - VT",
+					"BOARD Desc": "Veterinarian",
+					"Board Code": "VT",
+					"TYPE": "Veterinary Tufts Institutional - TI",
+					"TYPE Desc": "Veterinary Tufts Institutional",
+					"Type Code": "TI"
+				}
+			]
+		},
+		{
+			"agency": "eopss",
+			"license-types": [
+				{
+					"Profession ID": "10",
+					"Profession Name": "Engineering Licenses",
+					"License Code": "1010",
+					"License Name": "Engineer 1st Class",
+					"License Number Prefix": "EN1E"
+				},
+				{
+					"Profession ID": "10",
+					"Profession Name": "Engineering Licenses",
+					"License Code": "1020",
+					"License Name": "Engineer 2nd Class",
+					"License Number Prefix": "EN2E"
+				},
+				{
+					"Profession ID": "10",
+					"Profession Name": "Engineering Licenses",
+					"License Code": "1030",
+					"License Name": "Engineer 3rd Class",
+					"License Number Prefix": "EN3E"
+				},
+				{
+					"Profession ID": "10",
+					"Profession Name": "Engineering Licenses",
+					"License Code": "1040",
+					"License Name": "Fireman 1st Class",
+					"License Number Prefix": "FM1F"
+				},
+				{
+					"Profession ID": "10",
+					"Profession Name": "Engineering Licenses",
+					"License Code": "1050",
+					"License Name": "Fireman 2nd Class",
+					"License Number Prefix": "FM2F"
+				},
+				{
+					"Profession ID": "10",
+					"Profession Name": "Engineering Licenses",
+					"License Code": "1060",
+					"License Name": "HE-HA- Hoisting Engineer Apprentice",
+					"License Number Prefix": "HE"
+				},
+				{
+					"Profession ID": "10",
+					"Profession Name": "Engineering Licenses",
+					"License Code": "1065",
+					"License Name": "Hoisting Compact Machinery Rental",
+					"License Number Prefix": "HERC"
+				},
+				{
+					"Profession ID": "10",
+					"Profession Name": "Engineering Licenses",
+					"License Code": "1066",
+					"License Name": "Hoisting Continuing Education Facility",
+					"License Number Prefix": "HECE"
+				},
+				{
+					"Profession ID": "10",
+					"Profession Name": "Engineering Licenses",
+					"License Code": "1067",
+					"License Name": "Hoisting In-Service Training Program",
+					"License Number Prefix": "HEIP"
+				},
+				{
+					"Profession ID": "10",
+					"Profession Name": "Engineering Licenses",
+					"License Code": "1070",
+					"License Name": "Hoisting Engineer",
+					"License Number Prefix": "HE"
+				},
+				{
+					"Profession ID": "10",
+					"Profession Name": "Engineering Licenses",
+					"License Code": "1071",
+					"License Name": "Nuclear Power Plant Asst. Operator",
+					"License Number Prefix": "NA"
+				},
+				{
+					"Profession ID": "10",
+					"Profession Name": "Engineering Licenses",
+					"License Code": "1072",
+					"License Name": "Nuclear Power Plant Operator",
+					"License Number Prefix": "NE"
+				},
+				{
+					"Profession ID": "10",
+					"Profession Name": "Engineering Licenses",
+					"License Code": "1073",
+					"License Name": "Nuclear Power Plant Sr. Engineer",
+					"License Number Prefix": "NS"
+				},
+				{
+					"Profession ID": "10",
+					"Profession Name": "Engineering Licenses",
+					"License Code": "1074",
+					"License Name": "Pipefitter Apprentice",
+					"License Number Prefix": "PA"
+				},
+				{
+					"Profession ID": "10",
+					"Profession Name": "Engineering Licenses",
+					"License Code": "1075",
+					"License Name": "Pipefitter Journeyman PHCP-W",
+					"License Number Prefix": "PJ"
+				},
+				{
+					"Profession ID": "10",
+					"Profession Name": "Engineering Licenses",
+					"License Code": "1076",
+					"License Name": "Pipefitter Master PHCP-W",
+					"License Number Prefix": "PM"
+				},
+				{
+					"Profession ID": "10",
+					"Profession Name": "Engineering Licenses",
+					"License Code": "1077",
+					"License Name": "Refrigeration Apprentice",
+					"License Number Prefix": "RA"
+				},
+				{
+					"Profession ID": "10",
+					"Profession Name": "Engineering Licenses",
+					"License Code": "1078",
+					"License Name": "Refrigeration Contractor",
+					"License Number Prefix": "RC"
+				},
+				{
+					"Profession ID": "10",
+					"Profession Name": "Engineering Licenses",
+					"License Code": "1079",
+					"License Name": "Refrigeration Technician",
+					"License Number Prefix": "RT"
+				},
+				{
+					"Profession ID": "10",
+					"Profession Name": "Engineering Licenses",
+					"License Code": "1080",
+					"License Name": "Sprinkler Apprentice",
+					"License Number Prefix": "SA"
+				},
+				{
+					"Profession ID": "10",
+					"Profession Name": "Engineering Licenses",
+					"License Code": "1081",
+					"License Name": "Sprinkler Contractor",
+					"License Number Prefix": "SC"
+				},
+				{
+					"Profession ID": "10",
+					"Profession Name": "Engineering Licenses",
+					"License Code": "1082",
+					"License Name": "Sprinkler Journeyman",
+					"License Number Prefix": "SJ"
+				},
+				{
+					"Profession ID": "10",
+					"Profession Name": "Engineering Licenses",
+					"License Code": "1083",
+					"License Name": "Engineer Special To Have Charge",
+					"License Number Prefix": "ENSC"
+				},
+				{
+					"Profession ID": "10",
+					"Profession Name": "Engineering Licenses",
+					"License Code": "1084",
+					"License Name": "Engineer Special To Operate",
+					"License Number Prefix": "ENSO"
+				},
+				{
+					"Profession ID": "10",
+					"Profession Name": "Engineering Licenses",
+					"License Code": "1085",
+					"License Name": "Oil Burner Apprentice Certificate",
+					"License Number Prefix": "OA"
+				},
+				{
+					"Profession ID": "10",
+					"Profession Name": "Engineering Licenses",
+					"License Code": "1085",
+					"License Name": "Oil Burner Apprentice Certificate",
+					"License Number Prefix": "AO"
+				},
+				{
+					"Profession ID": "10",
+					"Profession Name": "Engineering Licenses",
+					"License Code": "1086",
+					"License Name": "Inspector of Pressure Vessels",
+					"License Number Prefix": "BI"
+				},
+				{
+					"Profession ID": "10",
+					"Profession Name": "Engineering Licenses",
+					"License Code": "1087",
+					"License Name": "Oil Burner Technician Certificate",
+					"License Number Prefix": "BU"
+				},
+				{
+					"Profession ID": "10",
+					"Profession Name": "Engineering Licenses",
+					"License Code": "1091",
+					"License Name": "Carriage Horse Driver",
+					"License Number Prefix": "HD"
+				},
+				{
+					"Profession ID": "10",
+					"Profession Name": "Engineering Licenses",
+					"License Code": "1094",
+					"License Name": "Recreational Tramway Certificate",
+					"License Number Prefix": "TC"
+				},
+				{
+					"Profession ID": "11",
+					"Profession Name": "Elevators Licenses",
+					"License Code": "1101",
+					"License Name": "Elevator Mechanic",
+					"License Number Prefix": "EM"
+				},
+				{
+					"Profession ID": "11",
+					"Profession Name": "Elevators Licenses",
+					"License Code": "1102",
+					"License Name": "Elevator Operator",
+					"License Number Prefix": "EO"
+				},
+				{
+					"Profession ID": "11",
+					"Profession Name": "Elevators Licenses",
+					"License Code": "1110",
+					"License Name": "Elevator Contractor",
+					"License Number Prefix": "EC"
+				},
+				{
+					"Profession ID": "12",
+					"Profession Name": "Building Licenses",
+					"License Code": "1201",
+					"License Name": "CSSL-MA - Masonry",
+					"License Number Prefix": "CSSL"
+				},
+				{
+					"Profession ID": "12",
+					"Profession Name": "Building Licenses",
+					"License Code": "1202",
+					"License Name": "CSSL-RF - Roofing",
+					"License Number Prefix": "CSSL"
+				},
+				{
+					"Profession ID": "12",
+					"Profession Name": "Building Licenses",
+					"License Code": "1203",
+					"License Name": "CSSL-WS - Windows and Siding",
+					"License Number Prefix": "CSSL"
+				},
+				{
+					"Profession ID": "12",
+					"Profession Name": "Building Licenses",
+					"License Code": "1204",
+					"License Name": "CSSL-SF - Solid Fuel Burning Device",
+					"License Number Prefix": "CSSL"
+				},
+				{
+					"Profession ID": "12",
+					"Profession Name": "Building Licenses",
+					"License Code": "1205",
+					"License Name": "CSSL-IC - Insulation Contractor",
+					"License Number Prefix": "CSSL"
+				},
+				{
+					"Profession ID": "12",
+					"Profession Name": "Building Licenses",
+					"License Code": "1206",
+					"License Name": "CSSL-DM - Demolition",
+					"License Number Prefix": "CSSL"
+				},
+				{
+					"Profession ID": "14",
+					"Profession Name": "Amusement Licenses",
+					"License Code": "1402",
+					"License Name": "Amusement Device Inspector for Insurance",
+					"License Number Prefix": "AI"
+				},
+				{
+					"Profession ID": "14",
+					"Profession Name": "Amusement Licenses",
+					"License Code": "1403",
+					"License Name": "Amusement Certified Maintenance Mechanic",
+					"License Number Prefix": "CM"
+				},
+				{
+					"Profession ID": "14",
+					"Profession Name": "Amusement Licenses",
+					"License Code": "1405",
+					"License Name": "Challenge Course/Climbing Wall Inspector",
+					"License Number Prefix": "CCCW"
+				},
+				{
+					"Profession ID": "10",
+					"Profession Name": "Engineering Licenses",
+					"License Code": "10000",
+					"License Name": "HE-1A- Derricks/ Lattice Cranes",
+					"License Number Prefix": "HE"
+				},
+				{
+					"Profession ID": "10",
+					"Profession Name": "Engineering Licenses",
+					"License Code": "10001",
+					"License Name": "HE-1B-Telescoping Boom w/Cables Cranes",
+					"License Number Prefix": "HE"
+				},
+				{
+					"Profession ID": "10",
+					"Profession Name": "Engineering Licenses",
+					"License Code": "10002",
+					"License Name": "HE-1C-Telescoping Booms w/o Cables",
+					"License Number Prefix": "HE"
+				},
+				{
+					"Profession ID": "10",
+					"Profession Name": "Engineering Licenses",
+					"License Code": "10003",
+					"License Name": "HE-2A- Excavators",
+					"License Number Prefix": "HE"
+				},
+				{
+					"Profession ID": "10",
+					"Profession Name": "Engineering Licenses",
+					"License Code": "10004",
+					"License Name": "HE-2B- Front End Loader/Backhoes",
+					"License Number Prefix": "HE"
+				},
+				{
+					"Profession ID": "10",
+					"Profession Name": "Engineering Licenses",
+					"License Code": "10005",
+					"License Name": "HE-2C-Front End Loaders/Uniloaders",
+					"License Number Prefix": "HE"
+				},
+				{
+					"Profession ID": "10",
+					"Profession Name": "Engineering Licenses",
+					"License Code": "10006",
+					"License Name": "HE-3A- Air or Electric Powered",
+					"License Number Prefix": "HE"
+				},
+				{
+					"Profession ID": "10",
+					"Profession Name": "Engineering Licenses",
+					"License Code": "10007",
+					"License Name": "4A repealed now 4B 4C 4D 4E 4F 4G",
+					"License Number Prefix": "HE"
+				},
+				{
+					"Profession ID": "10",
+					"Profession Name": "Engineering Licenses",
+					"License Code": "10008",
+					"License Name": "HE-4B- Drill Rigs",
+					"License Number Prefix": "HE"
+				},
+				{
+					"Profession ID": "10",
+					"Profession Name": "Engineering Licenses",
+					"License Code": "10009",
+					"License Name": "HE-4C- Pipeline Side Booms",
+					"License Number Prefix": "HE"
+				},
+				{
+					"Profession ID": "10",
+					"Profession Name": "Engineering Licenses",
+					"License Code": "10010",
+					"License Name": "HE-4D- Concrete Pumps",
+					"License Number Prefix": "HE"
+				},
+				{
+					"Profession ID": "10",
+					"Profession Name": "Engineering Licenses",
+					"License Code": "10011",
+					"License Name": "HE-4E- Catch Basin Cleaner",
+					"License Number Prefix": "HE"
+				},
+				{
+					"Profession ID": "10",
+					"Profession Name": "Engineering Licenses",
+					"License Code": "10012",
+					"License Name": "HE-4F- Sign Hanging Equipment",
+					"License Number Prefix": "HE"
+				},
+				{
+					"Profession ID": "10",
+					"Profession Name": "Engineering Licenses",
+					"License Code": "10013",
+					"License Name": "HE-4G- Specialty Lawn Mower",
+					"License Number Prefix": "HE"
+				},
+				{
+					"Profession ID": "10",
+					"Profession Name": "Engineering Licenses",
+					"License Code": "10014",
+					"License Name": "ENSC-05-HRT",
+					"License Number Prefix": "ENSC"
+				},
+				{
+					"Profession ID": "10",
+					"Profession Name": "Engineering Licenses",
+					"License Code": "10015",
+					"License Name": "ENSC-06-Scotch",
+					"License Number Prefix": "ENSC"
+				},
+				{
+					"Profession ID": "10",
+					"Profession Name": "Engineering Licenses",
+					"License Code": "10016",
+					"License Name": "ENSO-07-VFT VT, VRT",
+					"License Number Prefix": "ENSO"
+				},
+				{
+					"Profession ID": "10",
+					"Profession Name": "Engineering Licenses",
+					"License Code": "10017",
+					"License Name": "ENSC-07-VRT VT, VRT",
+					"License Number Prefix": "ENSC"
+				},
+				{
+					"Profession ID": "10",
+					"Profession Name": "Engineering Licenses",
+					"License Code": "10018",
+					"License Name": "ENSC-08-Water Tube",
+					"License Number Prefix": "ENSC"
+				},
+				{
+					"Profession ID": "10",
+					"Profession Name": "Engineering Licenses",
+					"License Code": "10019",
+					"License Name": "HE-1D- General Ind. Warehouse Fork Lifts",
+					"License Number Prefix": "HE"
+				},
+				{
+					"Profession ID": "10",
+					"Profession Name": "Engineering Licenses",
+					"License Code": "10020",
+					"License Name": "HE-2D- Compact Hoisting Machinery",
+					"License Number Prefix": "HE"
+				},
+				{
+					"Profession ID": "10",
+					"Profession Name": "Engineering Licenses",
+					"License Code": "10021",
+					"License Name": "HE-ML- Municipal Limited",
+					"License Number Prefix": "HE"
+				},
+				{
+					"Profession ID": "10",
+					"Profession Name": "Engineering Licenses",
+					"License Code": "10050",
+					"License Name": "ENSO-05-HRT",
+					"License Number Prefix": "ENSO"
+				},
+				{
+					"Profession ID": "10",
+					"Profession Name": "Engineering Licenses",
+					"License Code": "10051",
+					"License Name": "ENSO-06-Scotch",
+					"License Number Prefix": "ENSO"
+				},
+				{
+					"Profession ID": "10",
+					"Profession Name": "Engineering Licenses",
+					"License Code": "10053",
+					"License Name": "ENSO-08-Water Tube",
+					"License Number Prefix": "ENSO"
+				},
+				{
+					"Profession ID": "10",
+					"Profession Name": "Engineering Licenses",
+					"License Code": "10054",
+					"License Name": "ENSC-09-Coil Boilers",
+					"License Number Prefix": "ENSC"
+				},
+				{
+					"Profession ID": "10",
+					"Profession Name": "Engineering Licenses",
+					"License Code": "10055",
+					"License Name": "ENSC-10-Electric Boilers",
+					"License Number Prefix": "ENSC"
+				},
+				{
+					"Profession ID": "10",
+					"Profession Name": "Engineering Licenses",
+					"License Code": "10056",
+					"License Name": "ENSO-09-Coil Boilers",
+					"License Number Prefix": "ENSO"
+				},
+				{
+					"Profession ID": "10",
+					"Profession Name": "Engineering Licenses",
+					"License Code": "10057",
+					"License Name": "ENSO-10-Electric Boilers",
+					"License Number Prefix": "ENSO"
+				},
+				{
+					"Profession ID": "10",
+					"Profession Name": "Engineering Licenses",
+					"License Code": "10070",
+					"License Name": "TC-TI-Tramway Inspector",
+					"License Number Prefix": "TC"
+				},
+				{
+					"Profession ID": "10",
+					"Profession Name": "Engineering Licenses",
+					"License Code": "10071",
+					"License Name": "TC-WS-Wire Rope Splicer",
+					"License Number Prefix": "TC"
+				},
+				{
+					"Profession ID": "10",
+					"Profession Name": "Engineering Licenses",
+					"License Code": "10072",
+					"License Name": "TC-WI-Wire Rope Inspector",
+					"License Number Prefix": "TC"
+				},
+				{
+					"Profession ID": "10",
+					"Profession Name": "Engineering Licenses",
+					"License Code": "10073",
+					"License Name": "TC-ND-Non Destructive Testing Examiner",
+					"License Number Prefix": "TC"
+				},
+				{
+					"Profession ID": "10",
+					"Profession Name": "Engineering Licenses",
+					"License Code": "10740",
+					"License Name": "Pipefitter Unrestricted Apprentice",
+					"License Number Prefix": "PAU"
+				},
+				{
+					"Profession ID": "10",
+					"Profession Name": "Engineering Licenses",
+					"License Code": "10750",
+					"License Name": "Pipefitter Unrestricted Journeyman",
+					"License Number Prefix": "PJU"
+				},
+				{
+					"Profession ID": "10",
+					"Profession Name": "Engineering Licenses",
+					"License Code": "10752",
+					"License Name": "NULL",
+					"License Number Prefix": "PJ"
+				},
+				{
+					"Profession ID": "10",
+					"Profession Name": "Engineering Licenses",
+					"License Code": "10754",
+					"License Name": "Pipefitter Journeyman PHCP",
+					"License Number Prefix": "PJ"
+				},
+				{
+					"Profession ID": "10",
+					"Profession Name": "Engineering Licenses",
+					"License Code": "10755",
+					"License Name": "Pipefitter Journeyman PP",
+					"License Number Prefix": "PJ"
+				},
+				{
+					"Profession ID": "10",
+					"Profession Name": "Engineering Licenses",
+					"License Code": "10756",
+					"License Name": "Pipefitter Journeyman PP-W",
+					"License Number Prefix": "PJ"
+				},
+				{
+					"Profession ID": "10",
+					"Profession Name": "Engineering Licenses",
+					"License Code": "10760",
+					"License Name": "Pipefitter Unrestricted Master",
+					"License Number Prefix": "PMU"
+				},
+				{
+					"Profession ID": "10",
+					"Profession Name": "Engineering Licenses",
+					"License Code": "10762",
+					"License Name": "NULL",
+					"License Number Prefix": "PM"
+				},
+				{
+					"Profession ID": "10",
+					"Profession Name": "Engineering Licenses",
+					"License Code": "10764",
+					"License Name": "Pipefitter Master PHCP",
+					"License Number Prefix": "PM"
+				},
+				{
+					"Profession ID": "10",
+					"Profession Name": "Engineering Licenses",
+					"License Code": "10765",
+					"License Name": "Pipefitter Master PP",
+					"License Number Prefix": "PM"
+				},
+				{
+					"Profession ID": "10",
+					"Profession Name": "Engineering Licenses",
+					"License Code": "10766",
+					"License Name": "Pipefitter Master PP-W",
+					"License Number Prefix": "PM"
+				},
+				{
+					"Profession ID": "12",
+					"Profession Name": "Building Licenses",
+					"License Code": "12001",
+					"License Name": "Construction Supervisor",
+					"License Number Prefix": "CS"
+				},
+				{
+					"Profession ID": "12",
+					"Profession Name": "Building Licenses",
+					"License Code": "12004",
+					"License Name": "Motion Picture Operator",
+					"License Number Prefix": "MP"
+				},
+				{
+					"Profession ID": "12",
+					"Profession Name": "Building Licenses",
+					"License Code": "12009",
+					"License Name": "Building Official Certification",
+					"License Number Prefix": "BO"
+				},
+				{
+					"Profession ID": "12",
+					"Profession Name": "Building Licenses",
+					"License Code": "12011",
+					"License Name": "Construction Supervisor 1 & 2 Family",
+					"License Number Prefix": "CSFA"
+				},
+				{
+					"Profession ID": "12",
+					"Profession Name": "Building Licenses",
+					"License Code": "12012",
+					"License Name": "Construction Supervisor Specialty",
+					"License Number Prefix": "CSSL"
+				},
+				{
+					"Profession ID": "12",
+					"Profession Name": "Building Licenses",
+					"License Code": "12019",
+					"License Name": "Building Official CE Provider",
+					"License Number Prefix": "CS"
+				},
+				{
+					"Profession ID": "12",
+					"Profession Name": "Building Licenses",
+					"License Code": "12020",
+					"License Name": "CSL CE Course Coordinator",
+					"License Number Prefix": "CS"
+				},
+				{
+					"Profession ID": "12",
+					"Profession Name": "Building Licenses",
+					"License Code": "12020",
+					"License Name": "CSL CE Course Coordinator",
+					"License Number Prefix": "CSL"
+				},
+				{
+					"Profession ID": "13",
+					"Profession Name": "Regulated-Activity",
+					"License Code": "13001",
+					"License Name": "Security Systems - Cert. of Clearance",
+					"License Number Prefix": "SSCC"
+				},
+				{
+					"Profession ID": "13",
+					"Profession Name": "Regulated-Activity",
+					"License Code": "13001",
+					"License Name": "Security Systems - Cert. of Clearance",
+					"License Number Prefix": "CC"
+				},
+				{
+					"Profession ID": "13",
+					"Profession Name": "Regulated-Activity",
+					"License Code": "13002",
+					"License Name": "Security Systems - S-License",
+					"License Number Prefix": "SSCO"
+				},
+				{
+					"Profession ID": "13",
+					"Profession Name": "Regulated-Activity",
+					"License Code": "13002",
+					"License Name": "Security Systems - S-License",
+					"License Number Prefix": "SS"
+				},
+				{
+					"Profession ID": "13",
+					"Profession Name": "Regulated-Activity",
+					"License Code": "13003",
+					"License Name": "Ticket Resellers",
+					"License Number Prefix": "TR"
+				},
+				{
+					"Profession ID": "13",
+					"Profession Name": "Regulated-Activity",
+					"License Code": "13004",
+					"License Name": "Public Warehousemen",
+					"License Number Prefix": "WH"
+				},
+				{
+					"Profession ID": "13",
+					"Profession Name": "Regulated-Activity",
+					"License Code": "13004",
+					"License Name": "Public Warehousemen",
+					"License Number Prefix": "PW"
+				},
+				{
+					"Profession ID": "13",
+					"Profession Name": "Regulated-Activity",
+					"License Code": "13005",
+					"License Name": "Theatrical Booking Agency",
+					"License Number Prefix": "TB"
+				},
+				{
+					"Profession ID": "13",
+					"Profession Name": "Regulated-Activity",
+					"License Code": "13007",
+					"License Name": "Boxing Matchmaker",
+					"License Number Prefix": "BXMM"
+				},
+				{
+					"Profession ID": "13",
+					"Profession Name": "Regulated-Activity",
+					"License Code": "13008",
+					"License Name": "Boxing Professional",
+					"License Number Prefix": "BXPB"
+				},
+				{
+					"Profession ID": "13",
+					"Profession Name": "Regulated-Activity",
+					"License Code": "13009",
+					"License Name": "Boxing Trainer",
+					"License Number Prefix": "BXTR"
+				},
+				{
+					"Profession ID": "13",
+					"Profession Name": "Regulated-Activity",
+					"License Code": "13010",
+					"License Name": "Ringside Physician",
+					"License Number Prefix": "MADR"
+				},
+				{
+					"Profession ID": "13",
+					"Profession Name": "Regulated-Activity",
+					"License Code": "13010",
+					"License Name": "Ringside Physician",
+					"License Number Prefix": "BXDR"
+				},
+				{
+					"Profession ID": "13",
+					"Profession Name": "Regulated-Activity",
+					"License Code": "13010",
+					"License Name": "Ringside Physician",
+					"License Number Prefix": "PHYS"
+				},
+				{
+					"Profession ID": "13",
+					"Profession Name": "Regulated-Activity",
+					"License Code": "13011",
+					"License Name": "Boxing Judge",
+					"License Number Prefix": "BXJD"
+				},
+				{
+					"Profession ID": "13",
+					"Profession Name": "Regulated-Activity",
+					"License Code": "13012",
+					"License Name": "Boxing Manager",
+					"License Number Prefix": "BXMG"
+				},
+				{
+					"Profession ID": "13",
+					"Profession Name": "Regulated-Activity",
+					"License Code": "13013",
+					"License Name": "Boxing Promoter",
+					"License Number Prefix": "BXPR"
+				},
+				{
+					"Profession ID": "13",
+					"Profession Name": "Regulated-Activity",
+					"License Code": "13014",
+					"License Name": "Boxing Referee",
+					"License Number Prefix": "BXRF"
+				},
+				{
+					"Profession ID": "13",
+					"Profession Name": "Regulated-Activity",
+					"License Code": "13015",
+					"License Name": "Boxing Second",
+					"License Number Prefix": "BXSC"
+				},
+				{
+					"Profession ID": "13",
+					"Profession Name": "Regulated-Activity",
+					"License Code": "13016",
+					"License Name": "Boxing Timekeeper",
+					"License Number Prefix": "BXTK"
+				},
+				{
+					"Profession ID": "13",
+					"Profession Name": "Regulated-Activity",
+					"License Code": "13017",
+					"License Name": "MMA Matchmaker",
+					"License Number Prefix": "MAMM"
+				},
+				{
+					"Profession ID": "13",
+					"Profession Name": "Regulated-Activity",
+					"License Code": "13018",
+					"License Name": "MMA Professional",
+					"License Number Prefix": "MAAB"
+				},
+				{
+					"Profession ID": "13",
+					"Profession Name": "Regulated-Activity",
+					"License Code": "13018",
+					"License Name": "MMA Professional",
+					"License Number Prefix": "MAPB"
+				},
+				{
+					"Profession ID": "13",
+					"Profession Name": "Regulated-Activity",
+					"License Code": "13019",
+					"License Name": "MMA Trainer",
+					"License Number Prefix": "MATR"
+				},
+				{
+					"Profession ID": "13",
+					"Profession Name": "Regulated-Activity",
+					"License Code": "13021",
+					"License Name": "MMA Judge",
+					"License Number Prefix": "MAJD"
+				},
+				{
+					"Profession ID": "13",
+					"Profession Name": "Regulated-Activity",
+					"License Code": "13022",
+					"License Name": "MMA Manager",
+					"License Number Prefix": "MAMG"
+				},
+				{
+					"Profession ID": "13",
+					"Profession Name": "Regulated-Activity",
+					"License Code": "13023",
+					"License Name": "MMA Promoter",
+					"License Number Prefix": "MAPR"
+				},
+				{
+					"Profession ID": "13",
+					"Profession Name": "Regulated-Activity",
+					"License Code": "13024",
+					"License Name": "MMA Referee",
+					"License Number Prefix": "MARF"
+				},
+				{
+					"Profession ID": "13",
+					"Profession Name": "Regulated-Activity",
+					"License Code": "13025",
+					"License Name": "MMA Second",
+					"License Number Prefix": "BXSC"
+				},
+				{
+					"Profession ID": "13",
+					"Profession Name": "Regulated-Activity",
+					"License Code": "13025",
+					"License Name": "MMA Second",
+					"License Number Prefix": "MASC"
+				},
+				{
+					"Profession ID": "13",
+					"Profession Name": "Regulated-Activity",
+					"License Code": "13026",
+					"License Name": "MMA Timekeeper",
+					"License Number Prefix": "MATK"
+				},
+				{
+					"Profession ID": "13",
+					"Profession Name": "Regulated-Activity",
+					"License Code": "13027",
+					"License Name": "Kickboxing Professional",
+					"License Number Prefix": "KBPB"
+				},
+				{
+					"Profession ID": "13",
+					"Profession Name": "Regulated-Activity",
+					"License Code": "13028",
+					"License Name": "MMA Amatuer",
+					"License Number Prefix": "MAAB"
+				},
+				{
+					"Profession ID": "13",
+					"Profession Name": "Regulated-Activity",
+					"License Code": "13029",
+					"License Name": "Amateur Boxing Referee",
+					"License Number Prefix": "ABREF"
+				},
+				{
+					"Profession ID": "13",
+					"Profession Name": "Regulated-Activity",
+					"License Code": "13030",
+					"License Name": "Amateur Boxing Judge",
+					"License Number Prefix": "ABJUD"
+				},
+				{
+					"Profession ID": "13",
+					"Profession Name": "Regulated-Activity",
+					"License Code": "13032",
+					"License Name": "Amateur Boxing Timekeeper",
+					"License Number Prefix": "ABTIME"
+				},
+				{
+					"Profession ID": "13",
+					"Profession Name": "Regulated-Activity",
+					"License Code": "13033",
+					"License Name": "Federal ID",
+					"License Number Prefix": "MA"
+				},
+				{
+					"Profession ID": "13",
+					"Profession Name": "Regulated-Activity",
+					"License Code": "13033",
+					"License Name": "Federal ID",
+					"License Number Prefix": "NULL"
+				},
+				{
+					"Profession ID": "13",
+					"Profession Name": "Regulated-Activity",
+					"License Code": "13034",
+					"License Name": "Kickboxing Promoter",
+					"License Number Prefix": "KBPR"
+				},
+				{
+					"Profession ID": "13",
+					"Profession Name": "Regulated-Activity",
+					"License Code": "13035",
+					"License Name": "Kickboxing Amateur",
+					"License Number Prefix": "KBAB"
+				},
+				{
+					"Profession ID": "13",
+					"Profession Name": "Regulated-Activity",
+					"License Code": "13036",
+					"License Name": "Kickboxing Judge",
+					"License Number Prefix": "KBJD"
+				},
+				{
+					"Profession ID": "13",
+					"Profession Name": "Regulated-Activity",
+					"License Code": "13037",
+					"License Name": "Kickboxing Manager",
+					"License Number Prefix": "KBMG"
+				},
+				{
+					"Profession ID": "13",
+					"Profession Name": "Regulated-Activity",
+					"License Code": "13038",
+					"License Name": "Kickboxing Matchmaker",
+					"License Number Prefix": "KBMM"
+				},
+				{
+					"Profession ID": "13",
+					"Profession Name": "Regulated-Activity",
+					"License Code": "13039",
+					"License Name": "Kickboxing Referee",
+					"License Number Prefix": "KBRF"
+				},
+				{
+					"Profession ID": "13",
+					"Profession Name": "Regulated-Activity",
+					"License Code": "13040",
+					"License Name": "Kickboxing Second",
+					"License Number Prefix": "KBSC"
+				},
+				{
+					"Profession ID": "13",
+					"Profession Name": "Regulated-Activity",
+					"License Code": "13041",
+					"License Name": "Kickboxing Timekeeper",
+					"License Number Prefix": "KBTK"
+				},
+				{
+					"Profession ID": "13",
+					"Profession Name": "Regulated-Activity",
+					"License Code": "13042",
+					"License Name": "Kickboxing Trainer",
+					"License Number Prefix": "KBTR"
+				},
+				{
+					"Profession ID": "13",
+					"Profession Name": "Regulated-Activity",
+					"License Code": "13043",
+					"License Name": "Ringside Scorer",
+					"License Number Prefix": "RSSC"
+				},
+				{
+					"Profession ID": "14",
+					"Profession Name": "Amusement Licenses",
+					"License Code": "14001",
+					"License Name": "CM-Unlimited",
+					"License Number Prefix": "CM"
+				},
+				{
+					"Profession ID": "14",
+					"Profession Name": "Amusement Licenses",
+					"License Code": "14002",
+					"License Name": "CM-Inflatables Only",
+					"License Number Prefix": "CM"
+				},
+				{
+					"Profession ID": "14",
+					"Profession Name": "Amusement Licenses",
+					"License Code": "14003",
+					"License Name": "CM-Carousel Only",
+					"License Number Prefix": "CM"
+				},
+				{
+					"Profession ID": "14",
+					"Profession Name": "Amusement Licenses",
+					"License Code": "14004",
+					"License Name": "CM-Mobile Rock Walls Only",
+					"License Number Prefix": "CM"
+				},
+				{
+					"Profession ID": "14",
+					"Profession Name": "Amusement Licenses",
+					"License Code": "14005",
+					"License Name": "CM-Challenge Course/ Permanent Rock Wall",
+					"License Number Prefix": "CM"
+				},
+				{
+					"Profession ID": "14",
+					"Profession Name": "Amusement Licenses",
+					"License Code": "14006",
+					"License Name": "CM-Limited Specialty",
+					"License Number Prefix": "CM"
+				}
+			]
+		},
+		{
+			"agency": "ocabr",
+			"license-types": [
+				{
+					"Type Code": "HIC",
+					"Type Desc": "Home Improvement Contractors"
+				}
+			]
+		}
+	]
+	}
