@@ -1,13 +1,14 @@
 ---
 swagger: "2.0"
 info:
-  version: "2017-09-19T17:33:37Z"
-  title: "LicenseValidationAPI"
-host: "licensing.api.digital.mass.gov"
+  version: "2018-04-25-7"
+  title: "LicenseValidationAPI-test"
+host: "9lwcqgvg6e.execute-api.us-east-1.amazonaws.com"
+basePath: "/test"
 schemes:
 - "https"
 paths:
-  /dev/licenses/agencies/{agency}/{license-num}:
+  /licenses/agencies/{agency}/{license-num}:
     get:
       consumes:
       - "application/json"
@@ -22,6 +23,10 @@ paths:
         in: "path"
         required: true
         type: "string"
+      - name: "Authorization"
+        in: "header"
+        required: true
+        type: "string"
       responses:
         200:
           description: "200 response"
@@ -30,6 +35,9 @@ paths:
           headers:
             Access-Control-Allow-Origin:
               type: "string"
+      security:
+      - UserPoolAuthorizer: []
+      - api_key: []
     options:
       consumes:
       - "application/json"
@@ -47,7 +55,9 @@ paths:
               type: "string"
             Access-Control-Allow-Headers:
               type: "string"
-  /dev/licenses/agencies/{agency}/{license-num}/isvalid:
+      security:
+      - api_key: []
+  /licenses/agencies/{agency}/{license-num}/isvalid:
     get:
       consumes:
       - "application/json"
@@ -62,102 +72,8 @@ paths:
         in: "path"
         required: true
         type: "string"
-      responses:
-        200:
-          description: "200 response"
-          schema:
-            $ref: "#/definitions/Empty"
-          headers:
-            Access-Control-Allow-Origin:
-              type: "string"
-    options:
-      consumes:
-      - "application/json"
-      produces:
-      - "application/json"
-      responses:
-        200:
-          description: "200 response"
-          schema:
-            $ref: "#/definitions/Empty"
-          headers:
-            Access-Control-Allow-Origin:
-              type: "string"
-            Access-Control-Allow-Methods:
-              type: "string"
-            Access-Control-Allow-Headers:
-              type: "string"
-  /dev/licenses/boards:
-    get:
-      consumes:
-      - "application/json"
-      produces:
-      - "application/json"
-      responses:
-        200:
-          description: "200 response"
-          schema:
-            $ref: "#/definitions/Empty"
-          headers:
-            Access-Control-Allow-Origin:
-              type: "string"
-    options:
-      consumes:
-      - "application/json"
-      produces:
-      - "application/json"
-      responses:
-        200:
-          description: "200 response"
-          schema:
-            $ref: "#/definitions/Empty"
-          headers:
-            Access-Control-Allow-Origin:
-              type: "string"
-            Access-Control-Allow-Methods:
-              type: "string"
-            Access-Control-Allow-Headers:
-              type: "string"
-  /dev/licenses/boards/agencies:
-    get:
-      consumes:
-      - "application/json"
-      produces:
-      - "application/json"
-      responses:
-        200:
-          description: "200 response"
-          schema:
-            $ref: "#/definitions/Empty"
-          headers:
-            Access-Control-Allow-Origin:
-              type: "string"
-    options:
-      consumes:
-      - "application/json"
-      produces:
-      - "application/json"
-      responses:
-        200:
-          description: "200 response"
-          schema:
-            $ref: "#/definitions/Empty"
-          headers:
-            Access-Control-Allow-Origin:
-              type: "string"
-            Access-Control-Allow-Methods:
-              type: "string"
-            Access-Control-Allow-Headers:
-              type: "string"
-  /dev/licenses/boards/agencies/{agency}:
-    get:
-      consumes:
-      - "application/json"
-      produces:
-      - "application/json"
-      parameters:
-      - name: "agency"
-        in: "path"
+      - name: "Authorization"
+        in: "header"
         required: true
         type: "string"
       responses:
@@ -168,6 +84,9 @@ paths:
           headers:
             Access-Control-Allow-Origin:
               type: "string"
+      security:
+      - UserPoolAuthorizer: []
+      - api_key: []
     options:
       consumes:
       - "application/json"
@@ -185,7 +104,89 @@ paths:
               type: "string"
             Access-Control-Allow-Headers:
               type: "string"
-  /dev/licenses/boards/agencies/{agency}/{board-code}:
+  /licenses/boards:
+    get:
+      consumes:
+      - "application/json"
+      produces:
+      - "application/json"
+      parameters:
+      - name: "Authorization"
+        in: "header"
+        required: true
+        type: "string"
+      responses:
+        200:
+          description: "200 response"
+          schema:
+            $ref: "#/definitions/Empty"
+          headers:
+            Access-Control-Allow-Origin:
+              type: "string"
+      security:
+      - UserPoolAuthorizer: []
+      - api_key: []
+    options:
+      consumes:
+      - "application/json"
+      produces:
+      - "application/json"
+      responses:
+        200:
+          description: "200 response"
+          schema:
+            $ref: "#/definitions/Empty"
+          headers:
+            Access-Control-Allow-Origin:
+              type: "string"
+            Access-Control-Allow-Methods:
+              type: "string"
+            Access-Control-Allow-Headers:
+              type: "string"
+      security:
+      - api_key: []
+  /licenses/boards/agencies:
+    get:
+      consumes:
+      - "application/json"
+      produces:
+      - "application/json"
+      parameters:
+      - name: "Authorization"
+        in: "header"
+        required: true
+        type: "string"
+      responses:
+        200:
+          description: "200 response"
+          schema:
+            $ref: "#/definitions/Empty"
+          headers:
+            Access-Control-Allow-Origin:
+              type: "string"
+      security:
+      - UserPoolAuthorizer: []
+      - api_key: []
+    options:
+      consumes:
+      - "application/json"
+      produces:
+      - "application/json"
+      responses:
+        200:
+          description: "200 response"
+          schema:
+            $ref: "#/definitions/Empty"
+          headers:
+            Access-Control-Allow-Origin:
+              type: "string"
+            Access-Control-Allow-Methods:
+              type: "string"
+            Access-Control-Allow-Headers:
+              type: "string"
+      security:
+      - api_key: []
+  /licenses/boards/agencies/{agency}:
     get:
       consumes:
       - "application/json"
@@ -194,6 +195,55 @@ paths:
       parameters:
       - name: "agency"
         in: "path"
+        required: true
+        type: "string"
+      - name: "Authorization"
+        in: "header"
+        required: true
+        type: "string"
+      responses:
+        200:
+          description: "200 response"
+          schema:
+            $ref: "#/definitions/Empty"
+          headers:
+            Access-Control-Allow-Origin:
+              type: "string"
+      security:
+      - UserPoolAuthorizer: []
+      - api_key: []
+    options:
+      consumes:
+      - "application/json"
+      produces:
+      - "application/json"
+      responses:
+        200:
+          description: "200 response"
+          schema:
+            $ref: "#/definitions/Empty"
+          headers:
+            Access-Control-Allow-Origin:
+              type: "string"
+            Access-Control-Allow-Methods:
+              type: "string"
+            Access-Control-Allow-Headers:
+              type: "string"
+      security:
+      - api_key: []
+  /licenses/boards/agencies/{agency}/{board-code}:
+    get:
+      consumes:
+      - "application/json"
+      produces:
+      - "application/json"
+      parameters:
+      - name: "agency"
+        in: "path"
+        required: true
+        type: "string"
+      - name: "Authorization"
+        in: "header"
         required: true
         type: "string"
       - name: "board-code"
@@ -208,6 +258,9 @@ paths:
           headers:
             Access-Control-Allow-Origin:
               type: "string"
+      security:
+      - UserPoolAuthorizer: []
+      - api_key: []
     options:
       consumes:
       - "application/json"
@@ -225,194 +278,17 @@ paths:
               type: "string"
             Access-Control-Allow-Headers:
               type: "string"
-  /dev/licenses/entities:
-    options:
-      consumes:
-      - "application/json"
-      produces:
-      - "application/json"
-      responses:
-        200:
-          description: "200 response"
-          schema:
-            $ref: "#/definitions/Empty"
-          headers:
-            Access-Control-Allow-Origin:
-              type: "string"
-            Access-Control-Allow-Methods:
-              type: "string"
-            Access-Control-Allow-Headers:
-              type: "string"
-  /dev/licenses/entities/entity-name:
+      security:
+      - api_key: []
+  /licenses/types:
     get:
       consumes:
       - "application/json"
       produces:
       - "application/json"
       parameters:
-      - name: "name"
-        in: "query"
-        required: false
-        type: "string"
-      responses:
-        200:
-          description: "200 response"
-          schema:
-            $ref: "#/definitions/Empty"
-    options:
-      consumes:
-      - "application/json"
-      produces:
-      - "application/json"
-      responses:
-        200:
-          description: "200 response"
-          schema:
-            $ref: "#/definitions/Empty"
-          headers:
-            Access-Control-Allow-Origin:
-              type: "string"
-            Access-Control-Allow-Methods:
-              type: "string"
-            Access-Control-Allow-Headers:
-              type: "string"
-  /dev/licenses/licensees:
-    options:
-      consumes:
-      - "application/json"
-      produces:
-      - "application/json"
-      responses:
-        200:
-          description: "200 response"
-          schema:
-            $ref: "#/definitions/Empty"
-          headers:
-            Access-Control-Allow-Origin:
-              type: "string"
-            Access-Control-Allow-Methods:
-              type: "string"
-            Access-Control-Allow-Headers:
-              type: "string"
-  /dev/licenses/licensees/licensee-name:
-    get:
-      consumes:
-      - "application/json"
-      produces:
-      - "application/json"
-      parameters:
-      - name: "lastname"
-        in: "query"
-        required: false
-        type: "string"
-      - name: "firstname"
-        in: "query"
-        required: false
-        type: "string"
-      - name: "fullname"
-        in: "query"
-        required: false
-        type: "string"
-      - name: "middlename"
-        in: "query"
-        required: false
-        type: "string"
-      responses:
-        200:
-          description: "200 response"
-          schema:
-            $ref: "#/definitions/Empty"
-          headers:
-            Access-Control-Allow-Origin:
-              type: "string"
-    options:
-      consumes:
-      - "application/json"
-      produces:
-      - "application/json"
-      responses:
-        200:
-          description: "200 response"
-          schema:
-            $ref: "#/definitions/Empty"
-          headers:
-            Access-Control-Allow-Origin:
-              type: "string"
-            Access-Control-Allow-Methods:
-              type: "string"
-            Access-Control-Allow-Headers:
-              type: "string"
-  /dev/licenses/types:
-    get:
-      consumes:
-      - "application/json"
-      produces:
-      - "application/json"
-      responses:
-        200:
-          description: "200 response"
-          schema:
-            $ref: "#/definitions/Empty"
-          headers:
-            Access-Control-Allow-Origin:
-              type: "string"
-    options:
-      consumes:
-      - "application/json"
-      produces:
-      - "application/json"
-      responses:
-        200:
-          description: "200 response"
-          schema:
-            $ref: "#/definitions/Empty"
-          headers:
-            Access-Control-Allow-Origin:
-              type: "string"
-            Access-Control-Allow-Methods:
-              type: "string"
-            Access-Control-Allow-Headers:
-              type: "string"
-  /dev/licenses/types/agencies:
-    get:
-      consumes:
-      - "application/json"
-      produces:
-      - "application/json"
-      responses:
-        200:
-          description: "200 response"
-          schema:
-            $ref: "#/definitions/Empty"
-          headers:
-            Access-Control-Allow-Origin:
-              type: "string"
-    options:
-      consumes:
-      - "application/json"
-      produces:
-      - "application/json"
-      responses:
-        200:
-          description: "200 response"
-          schema:
-            $ref: "#/definitions/Empty"
-          headers:
-            Access-Control-Allow-Origin:
-              type: "string"
-            Access-Control-Allow-Methods:
-              type: "string"
-            Access-Control-Allow-Headers:
-              type: "string"
-  /dev/licenses/types/agencies/{agency}:
-    get:
-      consumes:
-      - "application/json"
-      produces:
-      - "application/json"
-      parameters:
-      - name: "agency"
-        in: "path"
+      - name: "Authorization"
+        in: "header"
         required: true
         type: "string"
       responses:
@@ -423,6 +299,9 @@ paths:
           headers:
             Access-Control-Allow-Origin:
               type: "string"
+      security:
+      - UserPoolAuthorizer: []
+      - api_key: []
     options:
       consumes:
       - "application/json"
@@ -440,7 +319,91 @@ paths:
               type: "string"
             Access-Control-Allow-Headers:
               type: "string"
-  /dev/licenses/types/agencies/{agency}/{type-code}:
+      security:
+      - api_key: []
+  /licenses/types/agencies:
+    get:
+      consumes:
+      - "application/json"
+      produces:
+      - "application/json"
+      parameters:
+      - name: "Authorization"
+        in: "header"
+        required: true
+        type: "string"
+      responses:
+        200:
+          description: "200 response"
+          schema:
+            $ref: "#/definitions/Empty"
+          headers:
+            Access-Control-Allow-Origin:
+              type: "string"
+      security:
+      - UserPoolAuthorizer: []
+      - api_key: []
+    options:
+      consumes:
+      - "application/json"
+      produces:
+      - "application/json"
+      responses:
+        200:
+          description: "200 response"
+          schema:
+            $ref: "#/definitions/Empty"
+          headers:
+            Access-Control-Allow-Origin:
+              type: "string"
+            Access-Control-Allow-Methods:
+              type: "string"
+            Access-Control-Allow-Headers:
+              type: "string"
+      security:
+      - api_key: []
+  /licenses/types/agencies/{agency}:
+    get:
+      consumes:
+      - "application/json"
+      parameters:
+      - name: "agency"
+        in: "path"
+        required: true
+        type: "string"
+      - name: "Authorization"
+        in: "header"
+        required: true
+        type: "string"
+      responses:
+        200:
+          description: "200 response"
+          headers:
+            Content-Type:
+              type: "string"
+      security:
+      - UserPoolAuthorizer: []
+      - api_key: []
+    options:
+      consumes:
+      - "application/json"
+      produces:
+      - "application/json"
+      responses:
+        200:
+          description: "200 response"
+          schema:
+            $ref: "#/definitions/Empty"
+          headers:
+            Access-Control-Allow-Origin:
+              type: "string"
+            Access-Control-Allow-Methods:
+              type: "string"
+            Access-Control-Allow-Headers:
+              type: "string"
+      security:
+      - api_key: []
+  /licenses/types/agencies/{agency}/{type-code}:
     get:
       consumes:
       - "application/json"
@@ -455,76 +418,8 @@ paths:
         in: "path"
         required: true
         type: "string"
-      responses:
-        200:
-          description: "200 response"
-          schema:
-            $ref: "#/definitions/Empty"
-          headers:
-            Access-Control-Allow-Origin:
-              type: "string"
-    options:
-      consumes:
-      - "application/json"
-      produces:
-      - "application/json"
-      responses:
-        200:
-          description: "200 response"
-          schema:
-            $ref: "#/definitions/Empty"
-          headers:
-            Access-Control-Allow-Origin:
-              type: "string"
-            Access-Control-Allow-Methods:
-              type: "string"
-            Access-Control-Allow-Headers:
-              type: "string"
-  /dev/licenses/{license-num}:
-    get:
-      consumes:
-      - "application/json"
-      produces:
-      - "application/json"
-      parameters:
-      - name: "license-num"
-        in: "path"
-        required: true
-        type: "string"
-      responses:
-        200:
-          description: "200 response"
-          schema:
-            $ref: "#/definitions/Empty"
-          headers:
-            Access-Control-Allow-Origin:
-              type: "string"
-    options:
-      consumes:
-      - "application/json"
-      produces:
-      - "application/json"
-      responses:
-        200:
-          description: "200 response"
-          schema:
-            $ref: "#/definitions/Empty"
-          headers:
-            Access-Control-Allow-Origin:
-              type: "string"
-            Access-Control-Allow-Methods:
-              type: "string"
-            Access-Control-Allow-Headers:
-              type: "string"
-  /test/licenses/{license-num}:
-    get:
-      consumes:
-      - "application/json"
-      produces:
-      - "application/json"
-      parameters:
-      - name: "license-num"
-        in: "path"
+      - name: "Authorization"
+        in: "header"
         required: true
         type: "string"
       responses:
@@ -536,6 +431,7 @@ paths:
             Access-Control-Allow-Origin:
               type: "string"
       security:
+      - UserPoolAuthorizer: []
       - api_key: []
     options:
       consumes:
@@ -554,7 +450,9 @@ paths:
               type: "string"
             Access-Control-Allow-Headers:
               type: "string"
-  /v1/licenses/{license-num}:
+      security:
+      - api_key: []
+  /licenses/{license-num}:
     get:
       consumes:
       - "application/json"
@@ -563,6 +461,10 @@ paths:
       parameters:
       - name: "license-num"
         in: "path"
+        required: true
+        type: "string"
+      - name: "Authorization"
+        in: "header"
         required: true
         type: "string"
       responses:
@@ -574,7 +476,7 @@ paths:
             Access-Control-Allow-Origin:
               type: "string"
       security:
-      - sigv4: []
+      - UserPoolAuthorizer: []
       - api_key: []
     options:
       consumes:
@@ -593,16 +495,18 @@ paths:
               type: "string"
             Access-Control-Allow-Headers:
               type: "string"
+      security:
+      - api_key: []
 securityDefinitions:
+  UserPoolAuthorizer:
+    type: "apiKey"
+    name: "Authorization"
+    in: "header"
+    x-amazon-apigateway-authtype: "cognito_user_pools"
   api_key:
     type: "apiKey"
     name: "x-api-key"
     in: "header"
-  sigv4:
-    type: "apiKey"
-    name: "Authorization"
-    in: "header"
-    x-amazon-apigateway-authtype: "awsSigv4"
 definitions:
   Empty:
     type: "object"
