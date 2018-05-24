@@ -1,4 +1,4 @@
-Profession ID,Profession Name,License Code,License Name,License Niumber Prefix 
+Licensing Board,License Entity,License Type,License Type Text,License Number Prefix 
 10,Engineering Licenses,1010,Engineer 1st Class ,EN1E
 10,Engineering Licenses,1020,Engineer 2nd Class ,EN2E
 10,Engineering Licenses,1030,Engineer 3rd Class ,EN3E
