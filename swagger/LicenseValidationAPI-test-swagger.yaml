@@ -2,9 +2,9 @@
 swagger: "2.0"
 info:
   version: "2018-04-25-1"
-  title: "LicenseValidationAPI-dev"
-host: "pk1c6tucck.execute-api.us-east-1.amazonaws.com"
-basePath: "/dev"
+  title: "LicenseValidationAPI-test"
+host: "test-licensing.api.digital.mass.gov"
+basePath: "/test"
 schemes:
 - "https"
 paths:
