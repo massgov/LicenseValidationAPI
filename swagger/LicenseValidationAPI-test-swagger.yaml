@@ -1,10 +1,10 @@
 ---
 swagger: "2.0"
 info:
-  version: "2018-04-25-7"
-  title: "LicenseValidationAPI-test"
-host: "9lwcqgvg6e.execute-api.us-east-1.amazonaws.com"
-basePath: "/test"
+  version: "2018-04-25-1"
+  title: "LicenseValidationAPI-dev"
+host: "pk1c6tucck.execute-api.us-east-1.amazonaws.com"
+basePath: "/dev"
 schemes:
 - "https"
 paths:
@@ -36,7 +36,7 @@ paths:
             Access-Control-Allow-Origin:
               type: "string"
       security:
-      - UserPoolAuthorizer: []
+      - CustomLambdaAuthorizer: []
       - api_key: []
     options:
       consumes:
@@ -55,8 +55,6 @@ paths:
               type: "string"
             Access-Control-Allow-Headers:
               type: "string"
-      security:
-      - api_key: []
   /licenses/agencies/{agency}/{license-num}/isvalid:
     get:
       consumes:
@@ -85,7 +83,7 @@ paths:
             Access-Control-Allow-Origin:
               type: "string"
       security:
-      - UserPoolAuthorizer: []
+      - CustomLambdaAuthorizer: []
       - api_key: []
     options:
       consumes:
@@ -124,7 +122,7 @@ paths:
             Access-Control-Allow-Origin:
               type: "string"
       security:
-      - UserPoolAuthorizer: []
+      - CustomLambdaAuthorizer: []
       - api_key: []
     options:
       consumes:
@@ -143,8 +141,6 @@ paths:
               type: "string"
             Access-Control-Allow-Headers:
               type: "string"
-      security:
-      - api_key: []
   /licenses/boards/agencies:
     get:
       consumes:
@@ -165,7 +161,7 @@ paths:
             Access-Control-Allow-Origin:
               type: "string"
       security:
-      - UserPoolAuthorizer: []
+      - CustomLambdaAuthorizer: []
       - api_key: []
     options:
       consumes:
@@ -184,8 +180,6 @@ paths:
               type: "string"
             Access-Control-Allow-Headers:
               type: "string"
-      security:
-      - api_key: []
   /licenses/boards/agencies/{agency}:
     get:
       consumes:
@@ -210,7 +204,7 @@ paths:
             Access-Control-Allow-Origin:
               type: "string"
       security:
-      - UserPoolAuthorizer: []
+      - CustomLambdaAuthorizer: []
       - api_key: []
     options:
       consumes:
@@ -229,8 +223,6 @@ paths:
               type: "string"
             Access-Control-Allow-Headers:
               type: "string"
-      security:
-      - api_key: []
   /licenses/boards/agencies/{agency}/{board-code}:
     get:
       consumes:
@@ -259,7 +251,7 @@ paths:
             Access-Control-Allow-Origin:
               type: "string"
       security:
-      - UserPoolAuthorizer: []
+      - CustomLambdaAuthorizer: []
       - api_key: []
     options:
       consumes:
@@ -278,8 +270,6 @@ paths:
               type: "string"
             Access-Control-Allow-Headers:
               type: "string"
-      security:
-      - api_key: []
   /licenses/types:
     get:
       consumes:
@@ -300,7 +290,7 @@ paths:
             Access-Control-Allow-Origin:
               type: "string"
       security:
-      - UserPoolAuthorizer: []
+      - CustomLambdaAuthorizer: []
       - api_key: []
     options:
       consumes:
@@ -319,8 +309,6 @@ paths:
               type: "string"
             Access-Control-Allow-Headers:
               type: "string"
-      security:
-      - api_key: []
   /licenses/types/agencies:
     get:
       consumes:
@@ -341,7 +329,7 @@ paths:
             Access-Control-Allow-Origin:
               type: "string"
       security:
-      - UserPoolAuthorizer: []
+      - CustomLambdaAuthorizer: []
       - api_key: []
     options:
       consumes:
@@ -360,8 +348,6 @@ paths:
               type: "string"
             Access-Control-Allow-Headers:
               type: "string"
-      security:
-      - api_key: []
   /licenses/types/agencies/{agency}:
     get:
       consumes:
@@ -382,7 +368,7 @@ paths:
             Content-Type:
               type: "string"
       security:
-      - UserPoolAuthorizer: []
+      - CustomLambdaAuthorizer: []
       - api_key: []
     options:
       consumes:
@@ -401,8 +387,6 @@ paths:
               type: "string"
             Access-Control-Allow-Headers:
               type: "string"
-      security:
-      - api_key: []
   /licenses/types/agencies/{agency}/{type-code}:
     get:
       consumes:
@@ -431,7 +415,7 @@ paths:
             Access-Control-Allow-Origin:
               type: "string"
       security:
-      - UserPoolAuthorizer: []
+      - CustomLambdaAuthorizer: []
       - api_key: []
     options:
       consumes:
@@ -450,8 +434,6 @@ paths:
               type: "string"
             Access-Control-Allow-Headers:
               type: "string"
-      security:
-      - api_key: []
   /licenses/{license-num}:
     get:
       consumes:
@@ -476,7 +458,7 @@ paths:
             Access-Control-Allow-Origin:
               type: "string"
       security:
-      - UserPoolAuthorizer: []
+      - CustomLambdaAuthorizer: []
       - api_key: []
     options:
       consumes:
@@ -495,18 +477,16 @@ paths:
               type: "string"
             Access-Control-Allow-Headers:
               type: "string"
-      security:
-      - api_key: []
 securityDefinitions:
-  UserPoolAuthorizer:
-    type: "apiKey"
-    name: "Authorization"
-    in: "header"
-    x-amazon-apigateway-authtype: "cognito_user_pools"
   api_key:
     type: "apiKey"
     name: "x-api-key"
     in: "header"
+  CustomLambdaAuthorizer:
+    type: "apiKey"
+    name: "Authorization"
+    in: "header"
+    x-amazon-apigateway-authtype: "custom"
 definitions:
   Empty:
     type: "object"
