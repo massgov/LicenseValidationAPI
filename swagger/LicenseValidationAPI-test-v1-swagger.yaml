@@ -3,8 +3,8 @@ swagger: "2.0"
 info:
   version: "2018-04-25-1"
   title: "LicenseValidationAPI-test"
-host: "test-licensing.api.digital.mass.gov"
-basePath: "/test"
+host: "test.licensing.api.digital.mass.gov"
+basePath: "/v1"
 schemes:
 - "https"
 paths:
@@ -82,6 +82,8 @@ paths:
           headers:
             Access-Control-Allow-Origin:
               type: "string"
+        400:
+          description: "400 response"
       security:
       - CustomLambdaAuthorizer: []
       - api_key: []
